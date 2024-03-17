@@ -1,0 +1,22 @@
+.Team{
+    display: flex;
+    width: 100%;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+    margin-top: 5rem;
+    margin-bottom: 2rem;
+    overflow: hidden;
+    gap: 2rem;
+    background-color: white;
+    .CardContainer{
+        width: 80vw;
+        display: flex;
+        column-gap: 2rem;
+        row-gap: 4rem;
+        justify-content: space-evenly;
+        align-items: center;
+        flex-wrap: wrap;
+        padding: 1rem;
+    }
+}
