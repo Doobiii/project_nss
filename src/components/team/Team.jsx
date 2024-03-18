@@ -4,10 +4,12 @@ import SectionTeam from "./Team-comp/Info-section/Section";
 import data from "../../db/team";
 import focus from "../../db/team-focus";
 import TeamCard from "./Team-comp/Card/TeamCard";
+import Header from "../shared/Title-page/Header";
 
 const Team = () => {
   return (
     <div className={styles.Team}>
+      <Header title="Team" />
       <Heading title="Meet Our Team" />
       {focus.map((item) => {
         return (
