@@ -76,7 +76,7 @@ const Contact = () => {
               <input
                 type='text'
                 placeholder='Name'
-                className='border cursor-pointer placeholder:text-xs placeholder:p-2 rounded-md h-9 w-3/4 border-gray '
+                className='border cursor-pointer  text-black  placeholder:text-xs placeholder:p-2 rounded-md h-9 w-3/4 border-gray '
               />
             </div>
             <div className='email flex my-2 flex-col '>
@@ -84,7 +84,7 @@ const Contact = () => {
               <input
                 type='text'
                 placeholder='Email '
-                className='border cursor-pointer placeholder:text-xs placeholder:p-2 rounded-md  h-9  w-3/4 border-gray '
+                className='border cursor-pointer  text-black placeholder:text-xs placeholder:p-2 rounded-md  h-9  w-3/4 border-gray '
               />
             </div>
             <div className='Phone flex-col  my-2 flex '>
@@ -92,7 +92,7 @@ const Contact = () => {
               <input
                 type='text'
                 placeholder='Phone'
-                className='border cursor-pointer placeholder:text-xs placeholder:p-2 rounded-md  h-9 w-3/4  border-gray '
+                className='border cursor-pointer text-black  placeholder:text-xs placeholder:p-2 rounded-md  h-9 w-3/4  border-gray '
               />
             </div>
             <div className='message flex-col my-2 w-3/4 flex '>
@@ -100,7 +100,7 @@ const Contact = () => {
               <input
                 type='text'
                 placeholder='YOUR MESSAGE'
-                className='border cursor-pointer placeholder:text-xs placeholder:p-2 rounded-md h-20 placeholder:h-full  border-gray  '
+                className='border cursor-pointer  text-black placeholder:text-xs placeholder:p-2 rounded-md h-20 placeholder:h-full  border-gray  '
                 name=''
                 id=''
               />
