@@ -5,7 +5,7 @@ import Home from './components/home/Home';
 import About from './components/about/About';
 import Event from './components/event/Event'
 import Team from './components/team/Team';
-import Contact from './components/contact/Contact';
+import Footer from './components/contact/Footer';
 import Navbar from './components/navbar/Nabvar';
 
 
