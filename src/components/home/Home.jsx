@@ -5,6 +5,9 @@ import AboutImg from "../images/img1.jpg";
 import Hero from "../hero/Hero";
 
 const Home = () => {
+  const scrollToTop = () => {
+    window.scrollTo({ top: 0, left: 0, behavior: "smooth" });
+  };
   return (
     <div>
       <div className="home-page">
@@ -29,7 +32,11 @@ const Home = () => {
                 suscipit officiis quod sequi?
               </p>
               <Link to="/About">
-                <Button variant="outline-success" size="lg">
+                <Button
+                  variant="outline-success"
+                  onClick={scrollToTop}
+                  size="lg"
+                >
                   More About Us
                 </Button>
               </Link>

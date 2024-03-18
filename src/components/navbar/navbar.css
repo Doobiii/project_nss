@@ -33,7 +33,7 @@
 
   margin: 0 1rem;
 }
-.navbar-brand::hover {
+.navbar-brand:hover {
   color: aliceblue;
 }
 
@@ -41,7 +41,7 @@
   padding: 0 1rem;
 }
 
-.btn {
+.btnn {
   display: none;
   border-style: none;
 }

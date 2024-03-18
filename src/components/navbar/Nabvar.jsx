@@ -6,6 +6,9 @@ import { MdClose } from "react-icons/md";
 import { Link } from "react-router-dom";
 
 const Navbar = () => {
+  const scrollToTop = () => {
+    window.scrollTo({ top: 0, left: 0, behavior: "smooth" });
+  };
   const [click, setClick] = useState(false);
   const handleClick = () => setClick(!click);
 
@@ -26,42 +29,60 @@ const Navbar = () => {
           : "header navbar sticky-top navbar-light navbar-fixed-top"
       }
     >
-      {/* <div className='header navbar sticky-top navbar-light navbar-fixed-top' > */}
       <Link to="/" className="navbar-brand ">
         <h2 style={{ color: "white" }} className="nav-nss">
           NSS-NIT Silchar
         </h2>
       </Link>
       <div className="nav-sec">
-        {/* <div className='navbar-nav'> */}
         <ul
           className={
             click ? "nav-menu navbar-nav" : "nav-menu active navbar-nav"
           }
         >
           <li className="nav-item">
-            <Link to="/" className="nav-link" style={{ color: "white" }}>
+            <Link
+              to="/"
+              className="nav-link"
+              onClick={scrollToTop}
+              style={{ color: "white" }}
+            >
               Home
             </Link>
           </li>
           <li className="nav-item">
-            <Link to="/About" className="nav-link" style={{ color: "white" }}>
+            <Link
+              to="/About"
+              className="nav-link"
+              onClick={scrollToTop}
+              style={{ color: "white" }}
+            >
               About
             </Link>
           </li>
           <li className="nav-item">
-            <Link to="/Event" className="nav-link" style={{ color: "white" }}>
+            <Link
+              to="/Event"
+              className="nav-link"
+              onClick={scrollToTop}
+              style={{ color: "white" }}
+            >
               Event
             </Link>
           </li>
           <li className="nav-item">
-            <Link to="/Team" className="nav-link" style={{ color: "white" }}>
+            <Link
+              to="/Team"
+              className="nav-link"
+              onClick={scrollToTop}
+              style={{ color: "white" }}
+            >
               Team
             </Link>
           </li>
         </ul>
         {/* </div> */}
-        <div className="btn" onClick={handleClick}>
+        <div className="btnn btn" onClick={handleClick}>
           {click ? (
             <MdClose size={25} style={{ color: "white" }} />
           ) : (
