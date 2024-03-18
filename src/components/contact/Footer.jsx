@@ -20,7 +20,7 @@ const Contact = () => {
       <div className='footer-container'>
         <div className='info sm:flex-row sm:justify-start flex-col'>
         
-          <div className='left h-full sm:w-1/3 mb-6'>
+          <div className='left h-full sm:w-1/3 mb-6 p-20'>
             <div className='address sm:px-4 mb-6 '>
               <h3 className='heading sm:text-xl sm:mb-5 mb-2'>Address</h3>
               <p>
@@ -43,10 +43,10 @@ const Contact = () => {
               </div>
             </div>
           </div>
-          <div className='middle sm:w-1/3 h-full mb-8'>
+          <div className='middle sm:w-1/3 h-full mb-8 p-20'>
             <div className='follow-link'>
-              <h3 className='heading text-xl mb-5'>Follow Us</h3>
-              <div className='iconsss'>
+              <h3 className='heading text-xl mb-2'>Follow Us</h3>
+              <div className='iconsss flex gap-4 items-center'>
                 <FaFacebookF
                   className='icon fb mb-2'
                   size={20}
@@ -59,9 +59,9 @@ const Contact = () => {
                 />
               </div>
             </div>
-            <div className='imp-link'>
-              <h3 className='heading'>Important Links</h3>
-              <ul className='listing'>
+            <div className='imp-link py-4'>
+              <h3 className='heading text-base'>Important Links</h3>
+              <ul className='listing py-2'>
                 <li>link_1</li>
                 <li>link_2</li>
                 <li>link_3</li>
@@ -72,7 +72,7 @@ const Contact = () => {
             <div className='text-xl mb-5'> Contact Us Dirtectly </div>
             {/* <div className="bar w-12 bg-slate-600 mx-12 sm:h-2  rounded-md mb-8"></div> */}
             <div className='flex-col my-2 flex '>
-              <h1 className='text-sm'>Your Name*</h1>
+              <h1 className='text-xs'>Your Name*</h1>
               <input
                 type='text'
                 placeholder='Name'
@@ -80,7 +80,7 @@ const Contact = () => {
               />
             </div>
             <div className='email flex my-2 flex-col '>
-              <h1 className='text-sm'>Your Email*</h1>
+              <h1 className='text-xs'>Your Email*</h1>
               <input
                 type='text'
                 placeholder='Email '
@@ -88,7 +88,7 @@ const Contact = () => {
               />
             </div>
             <div className='Phone flex-col  my-2 flex '>
-              <h1 className='text-sm'>Phone</h1>
+              <h1 className='text-xs'>Phone</h1>
               <input
                 type='text'
                 placeholder='Phone'
@@ -96,7 +96,7 @@ const Contact = () => {
               />
             </div>
             <div className='message flex-col my-2 w-3/4 flex '>
-              <h1 className='text-sm'>Your Message</h1>
+              <h1 className='text-xs'>Your Message</h1>
               <input
                 type='text'
                 placeholder='YOUR MESSAGE'
