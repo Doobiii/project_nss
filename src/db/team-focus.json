@@ -1,0 +1,22 @@
+[
+  {
+    "id": "1",
+    "name": "Pranto Das",
+    "designation": "President",
+    "image": "https://media.istockphoto.com/id/1327592506/vector/default-avatar-photo-placeholder-icon-grey-profile-picture-business-man.jpg?s=1024x1024&w=is&k=20&c=er-yFBCv5wYO_curZ-MILgW0ECSjt0DDg5OlwpsAgZM=",
+    "facebook": "",
+    "instagram": "",
+    "linkedin": "",
+    "info": "Lorem ipsum, dolor sit amet consectetur adipisicing elit. Nostrum alias dicta rerum natus minus repellendus quae fugiat? Obcaecati, earum? Facere inventore cupiditate quae autem voluptatem omnis architecto iste sed temporibus!"
+  },
+  {
+    "id": "2",
+    "name": "Deepak Kumar",
+    "designation": "Secretary of Tech",
+    "image": "",
+    "facebook": "",
+    "instagram": "",
+    "linkedin": "",
+    "info":""
+  }
+]
