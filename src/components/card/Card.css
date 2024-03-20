@@ -44,11 +44,18 @@ img {
 
 /*=============== CARD ===============*/
 .containerrr {
+<<<<<<< HEAD
   /* place-items: center; */
   display: flex;
   align-items: center;
   justify-content: center;
   padding: 2rem 1.5rem;
+=======
+  display: grid;
+  place-items: center;
+  margin-inline: 1.5rem;
+  padding-block: 5rem;
+>>>>>>> 71de23bc2b67d62d24520886e8c8368987f02c68
 }
 
 .card__article {
@@ -58,17 +65,24 @@ img {
 
 .card__img {
   width: 320px;
+<<<<<<< HEAD
 
   border-radius: 1.5rem;
 
   border-radius: 1.7rem;
+=======
+  border-radius: 1.5rem;
+>>>>>>> 71de23bc2b67d62d24520886e8c8368987f02c68
 }
 
 .card__data {
   width: 280px;
   background-color: var(--container-color);
   padding: 1rem 2rem;
+<<<<<<< HEAD
 
+=======
+>>>>>>> 71de23bc2b67d62d24520886e8c8368987f02c68
   box-shadow: 0 8px 24px hsla(0, 0%, 0%, 0.15);
   border-radius: 1rem;
   position: absolute;
@@ -176,12 +190,17 @@ img {
 
 @media screen and (min-width: 768px) {
   .card__data {
+<<<<<<< HEAD
     max-width: 85%; /* Adjust based on desired width */
+=======
+    max-width: 80%; /* Adjust based on desired width */
+>>>>>>> 71de23bc2b67d62d24520886e8c8368987f02c68
   }
 }
 
 @media screen and (min-width: 992px) {
   .card__data {
+<<<<<<< HEAD
     max-width: 90%;
     padding: 0.835rem;
     /* height: 5rem; */
@@ -189,14 +208,21 @@ img {
   /* .card__img {
     width: 320px;
   } */
+=======
+    max-width: 90%; /* Adjust based on desired width */
+  }
+>>>>>>> 71de23bc2b67d62d24520886e8c8368987f02c68
 }
 
 @media screen and (min-width: 1200px) {
   .card__data {
     max-width: 100%; /* Adjust based on desired width */
   }
+<<<<<<< HEAD
 
   .containerrr {
     width: max-content;
   }
+=======
+>>>>>>> 71de23bc2b67d62d24520886e8c8368987f02c68
 }
