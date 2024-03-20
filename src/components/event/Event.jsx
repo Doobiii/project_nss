@@ -19,7 +19,7 @@ const Event = () => {
       </header>
 
       <div className="container my-5">
-        <div className="row column-gap-0">
+        <div className="row column-gap-0 mx-4">
           <div className="col-lg-6 col-md-12 d-flex flex-column align-items-center justify-content-center ">
             <img src={eventImg} className="img-fluid w-55" alt="about img" />
           </div>
@@ -48,7 +48,7 @@ const Event = () => {
               {cardsData.map((card, index) => (
                 <div
                   key={index}
-                  className="col-lg-6 col-xl-4 col-sm-12 col-md-6  "
+                  className="col-lg-6 col-xl-4 col-sm-12 col-md-6 d-flex align-items-center justify-content-center"
                 >
                   <Card title={card.title} content={card.content} />
                 </div>
@@ -61,7 +61,7 @@ const Event = () => {
               {cardsData.map((card, index) => (
                 <div
                   key={index}
-                  className="col-lg-6 col-xl-4 col-sm-12 col-md-6  "
+                  className="col-lg-6 col-xl-4 col-sm-12 col-md-6 d-flex align-items-center justify-content-center"
                 >
                   <Card title={card.title} content={card.content} />
                 </div>
