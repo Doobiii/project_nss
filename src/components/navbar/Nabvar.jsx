@@ -1,16 +1,19 @@
 import "./navbar.css";
 import React, { useState } from "react";
-
 import { TfiAlignRight } from "react-icons/tfi";
 import { MdClose } from "react-icons/md";
 import { Link } from "react-router-dom";
 import Logo from "../images/logo-removebg-preview.png";
+
 const Navbar = () => {
   const scrollToTop = () => {
     window.scrollTo({ top: 0, left: 0, behavior: "smooth" });
   };
+
   const [click, setClick] = useState(false);
   const handleClick = () => setClick(!click);
+
+  const closeMenu = () => setClick(false); // Function to close the menu
 
   const [color, setcolor] = useState(false);
   const changeColor = () => {
@@ -43,7 +46,7 @@ const Navbar = () => {
             fontWeight: "bold",
             letterSpacing: "1px",
           }}
-          className="nav-nss "
+          className="nav-nss"
         >
           NSS <span className="nit-silchar"> NIT Silchar</span>
         </h2>
@@ -58,7 +61,10 @@ const Navbar = () => {
             <Link
               to="/"
               className="nav-link"
-              onClick={scrollToTop}
+              onClick={() => {
+                scrollToTop();
+                closeMenu();
+              }} // Close the menu after clicking on the link
               style={{ color: "white" }}
             >
               Home
@@ -68,7 +74,10 @@ const Navbar = () => {
             <Link
               to="/About"
               className="nav-link"
-              onClick={scrollToTop}
+              onClick={() => {
+                scrollToTop();
+                closeMenu();
+              }} // Close the menu after clicking on the link
               style={{ color: "white" }}
             >
               About
@@ -78,7 +87,10 @@ const Navbar = () => {
             <Link
               to="/Event"
               className="nav-link"
-              onClick={scrollToTop}
+              onClick={() => {
+                scrollToTop();
+                closeMenu();
+              }} // Close the menu after clicking on the link
               style={{ color: "white" }}
             >
               Event
@@ -88,14 +100,16 @@ const Navbar = () => {
             <Link
               to="/Team"
               className="nav-link"
-              onClick={scrollToTop}
+              onClick={() => {
+                scrollToTop();
+                closeMenu();
+              }} // Close the menu after clicking on the link
               style={{ color: "white" }}
             >
               Team
             </Link>
           </li>
         </ul>
-        {/* </div> */}
         <div className="btnn btn" onClick={handleClick}>
           {click ? (
             <MdClose size={25} style={{ color: "white" }} />
