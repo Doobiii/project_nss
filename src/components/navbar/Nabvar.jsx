@@ -31,7 +31,8 @@ const Navbar = () => {
     >
       <Link
         to="/"
-        className="navbar-brand d-flex  align-items-center justify-content-center"
+        onClick={scrollToTop}
+        className="navbar-brand m-0 d-flex  align-items-center justify-content-center"
       >
         <img src={Logo} alt="nss-logo" className="mr-2 logo-img" />
         <h2
@@ -42,9 +43,9 @@ const Navbar = () => {
             fontWeight: "bold",
             letterSpacing: "1px",
           }}
-          className="nav-nss"
+          className="nav-nss "
         >
-          NSS NIT Silchar
+          NSS <span className="nit-silchar"> NIT Silchar</span>
         </h2>
       </Link>
       <div className="nav-sec">
