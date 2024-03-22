@@ -28,15 +28,20 @@ const Event = () => {
               NSS Inauguration
             </h2>
             <p>
-              Lorem ipsum dolor, sit amet consectetur adipisicing elit.
-              Provident voluptate aut dolore ullam quasi numquam quod molestias
-              cum officiis perspiciatis?
+              The NSS inauguration at NIT Silchar, held on 11th August 2023, was
+              a momentous occasion, uniting students, faculty, and
+              administration in the Bhupen Hazarika Auditorium. With meticulous
+              planning, the event commenced with the ceremonial lighting of
+              diyas, symbolizing enlightenment and service.
             </p>
             <p className="mb-5">
-              Lorem, ipsum dolor sit amet consectetur adipisicing elit. Ab magni
-              animi tenetur eaque vel accusamus placeat quaerat ad. Similique
-              quaerat qui doloribus assumenda deserunt tenetur quas suscipit
-              officiis quod sequi?
+              Our esteemed Director Professor Dilip Kumar Baidya inaugurated NSS
+              NIT Silchar, setting the stage for a purposeful journey. This was
+              followed by insightful speeches from him, the Deans, the NSS
+              Programme Officer, and the NSS President, inspiring collaboration,
+              and a commitment to service. NSS NIT Silchar pledges to sustain
+              impactful service, uplifting communities and enhancing the
+              college's reputation.
             </p>
           </div>
         </div>
