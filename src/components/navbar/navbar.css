@@ -36,7 +36,10 @@
 .navbar-brand:hover {
   color: aliceblue;
 }
-
+.logo-img {
+  width: 2.7rem; /* Adjust the width as needed */
+  height: auto;
+}
 .nav-menu li {
   padding: 0 1rem;
 }

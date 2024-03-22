@@ -4,7 +4,7 @@ import React, { useState } from "react";
 import { TfiAlignRight } from "react-icons/tfi";
 import { MdClose } from "react-icons/md";
 import { Link } from "react-router-dom";
-
+import Logo from "../images/logo-removebg-preview.png";
 const Navbar = () => {
   const scrollToTop = () => {
     window.scrollTo({ top: 0, left: 0, behavior: "smooth" });
@@ -29,9 +29,22 @@ const Navbar = () => {
           : "header navbar sticky-top navbar-light navbar-fixed-top"
       }
     >
-      <Link to="/" className="navbar-brand ">
-        <h2 style={{ color: "white" }} className="nav-nss">
-          NSS-NIT Silchar
+      <Link
+        to="/"
+        className="navbar-brand d-flex  align-items-center justify-content-center"
+      >
+        <img src={Logo} alt="nss-logo" className="mr-2 logo-img" />
+        <h2
+          style={{
+            color: "white",
+            margin: 0,
+            fontSize: "1.5rem",
+            fontWeight: "bold",
+            letterSpacing: "1px",
+          }}
+          className="nav-nss"
+        >
+          NSS NIT Silchar
         </h2>
       </Link>
       <div className="nav-sec">
