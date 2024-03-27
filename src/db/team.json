@@ -6,5 +6,13 @@
     "imageUrl": "https://res.cloudinary.com/sahincloudinary/image/upload/f_auto,q_auto/cld-sample-2",
     "facebook": "https://www.facebook.com/sahin.alam.9216778?mibextid=ZbWKwL",
     "linkedin": "https://www.linkedin.com/in/sahin-alam-96250324a/"
+  },
+  {
+    "id": 2,
+    "name": "Ariyan Kumar Singh",
+    "designation": "Vice President",
+    "imageUrl": "https://res.cloudinary.com/sahincloudinary/image/upload/f_auto,q_auto/cld-sample-2",
+    "facebook": "https://www.facebook.com/sahin.alam.9216778?mibextid=ZbWKwL",
+    "linkedin": "https://www.linkedin.com/in/sahin-alam-96250324a/"
   }
 ]
