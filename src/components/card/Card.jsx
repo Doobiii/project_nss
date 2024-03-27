@@ -1,11 +1,15 @@
 import React from "react";
 import "./Card.css";
 import Cardimg from "../images/img1.jpg";
-const Card = ({ title, content }) => {
+const Card = ({ title, content, imgUrl }) => {
   return (
     <div className="containerrr">
       <article className="card__article">
-        <img src={Cardimg} alt="card-img" className="card__img" />
+        <img
+          src={imgUrl ? imgUrl : Cardimg}
+          alt="card-img"
+          className="card__img"
+        />
 
         <div className="card__data">
           <span className="card__description">{content}</span>
