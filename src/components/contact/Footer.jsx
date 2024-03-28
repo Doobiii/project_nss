@@ -16,12 +16,13 @@ const Contact = () => {
   };
 
   return (
-    <div className="footer w-100">
-      <div className="footer-container">
-        <div className="info sm:flex-row sm:justify-start flex-col">
-          <div className="left h-full sm:w-1/3 mb-6 p-20">
-            <div className="address sm:px-4 mb-6 ">
-              <h3 className="heading sm:text-xl sm:mb-5 mb-2">Address</h3>
+    <div className='footer w-100'>
+      <div className='footer-container'>
+        <div className='info sm:flex-row sm:justify-start flex-col'>
+        <div className="top flex  ">
+        <div className='left h-full sm:w-1/2 mb-6 p-20'>
+            <div className='address sm:px-4 mb-6 '>
+              <h3 className='heading sm:text-xl sm:mb-5 mb-2'>Address</h3>
               <p>
                 NIT SILCHAR
                 <br></br>
@@ -30,10 +31,10 @@ const Contact = () => {
                 Assam, IN
               </p>
             </div>
-            <div className="contact-us sm:p-4 mb-6 ">
-              <h3 className="heading text-xl mb-2">Contact Us</h3>
-              <div className="contact-icon">
-                <p className="flex items-center gap-3">
+            <div className='contact-us sm:p-4 mb-6 '>
+              <h3 className='heading text-xl mb-2'>Contact Us</h3>
+              <div className='contact-icon'>
+                <p className='flex items-center gap-3'>
                   <IoMailOutline /> mail@gmail.com
                 </p>
                 <p className="flex  items-center gap-3">
@@ -42,10 +43,10 @@ const Contact = () => {
               </div>
             </div>
           </div>
-          <div className="middle sm:w-1/3 h-full mb-8 p-20">
-            <div className="follow-link">
-              <h3 className="heading text-xl mb-2">Follow Us</h3>
-              <div className="iconsss flex gap-4 items-center">
+          <div className='middle sm:w-1/2 h-full mb-8 p-20'>
+            <div className='follow-link'>
+              <h3 className='heading text-xl mb-2'>Follow Us</h3>
+              <div className='iconsss flex gap-4 items-center'>
                 <FaFacebookF
                   className="icon fb mb-2"
                   size={20}
@@ -67,11 +68,15 @@ const Contact = () => {
               </ul>
             </div>
           </div>
-          <div className="right sm:w-1/3">
-            <div className="text-xl mb-5"> Contact Us Dirtectly </div>
+
+
+        </div>
+          
+          <div className='right sm:w-1/3 mb-5'>
+            <div className='text-xl mb-5'> Contact Us Dirtectly </div>
             {/* <div className="bar w-12 bg-slate-600 mx-12 sm:h-2  rounded-md mb-8"></div> */}
-            <div className="flex-col my-2 flex ">
-              <h1 className="text-xs">Your Name*</h1>
+            <div className='flex-col my-2 flex '>
+              <h1 className='text-xs'>Your Name*</h1>
               <input
                 type="text"
                 placeholder="Name"
@@ -104,8 +109,8 @@ const Contact = () => {
                 id=""
               />
             </div>
-            <div className="flex  w-3/4">
-              <button className="submit  p-2 rounded-md my-3 text-black sm:mx-auto border-black-950 border-blue-600 cursor-pointer bg-blue-400 hover:bg-blue-600">
+            <div className='flex  w-3/4'>
+              <button className='submit  p-2 rounded-md my-3 text-black sm:mx-auto border-black-950 border-blue-600 cursor-pointer bg-blue-400 hover:bg-blue-600'>
                 Submit
               </button>
             </div>
