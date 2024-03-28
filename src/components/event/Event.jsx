@@ -18,7 +18,7 @@ const Event = () => {
       <div className="container my-5">
         <div className="row column-gap-0 mx-4">
           <div className="col-lg-6 col-md-12 d-flex flex-column align-items-center justify-content-center ">
-            <img src={eventImg} className="img-fluid w-55" alt="about img" />
+            <img src="https://res.cloudinary.com/dvm4ovv0x/image/upload/f_auto,q_auto/v1/NSS_EVENTS/ngsi4unot2vy0urzrad5" className="img-fluid w-55" alt="about img" />
           </div>
           <div className="col-lg-6 col-md-12 d-flex flex-column align-items-center justify-content-center text-center">
             <h2 className="fs-1 mb-5 text-uppercase fw-bold">

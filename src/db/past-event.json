@@ -7,28 +7,39 @@
   },
   { 
     "id":2,
-    "title": "Survey",
+    "title": "Village Survey",
     "content": "Content for Card 2",
     "imgUrl": "https://res.cloudinary.com/dvm4ovv0x/image/upload/f_auto,q_auto/v1/NSS_EVENTS/vqrnipk4ao3b9mucnzpf"
 
   },
   { 
      "id":3,
-     "title": "Republic Day",
+     "title": "Diwali",
      "content": "Content for Card 3",
-     "imgUrl": "https://res.cloudinary.com/dvm4ovv0x/image/upload/f_auto,q_auto/v1/NSS_EVENTS/d7qjjcjxzuvirdq1z9m8"
-
+     "imgUrl": "https://res.cloudinary.com/dvm4ovv0x/image/upload/f_auto,q_auto/v1/NSS_EVENTS/ezv7bvvluqox2arwl0ky"
   },
   { 
     "id":4,
-    "title": "Diwali",
+    "title": "Republic Day",
     "content": "Content for Card 4" ,
-    "imgUrl": "https://res.cloudinary.com/dvm4ovv0x/image/upload/f_auto,q_auto/v1/NSS_EVENTS/ezv7bvvluqox2arwl0ky"
+    "imgUrl": "https://res.cloudinary.com/dvm4ovv0x/image/upload/f_auto,q_auto/v1/NSS_EVENTS/d7qjjcjxzuvirdq1z9m8"
   },
   { 
     "id":5,
     "title": "Khadi",
     "content": "Content for Card 5",
     "imgUrl": "https://res.cloudinary.com/dvm4ovv0x/image/upload/f_auto,q_auto/v1/NSS_EVENTS/ymkdzefqznlecxmu8s6z"
+  },
+  {
+    "id":6,
+    "title": "Biodiversity",
+    "content": "Content for card 6",
+    "imgUrl": "https://res.cloudinary.com/dvm4ovv0x/image/upload/f_auto,q_auto/v1/NSS_EVENTS/ve5qntpjeyzff6mstq9k"
+  },
+  {
+    "id":7,
+    "title": "Cleaning Event",
+    "content": "Content for card 7",
+    "imgUrl": "https://res.cloudinary.com/dvm4ovv0x/image/upload/f_auto,q_auto/v1/NSS_EVENTS/enowdoewrzfp2mqnznou"
   }
 ]
