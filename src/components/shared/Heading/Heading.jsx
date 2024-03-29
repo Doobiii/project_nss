@@ -1,5 +1,5 @@
 import styles from "./Heading.module.scss";
-const Heading = ({title}) => {
+const Heading = ({ title }) => {
   return (
     <div className={styles.Heading}>
       <div className={styles.bar}>
@@ -12,6 +12,6 @@ const Heading = ({title}) => {
 };
 
 Heading.defaultProps = {
-    title:"Heading"
-  }
+  title: "Heading",
+};
 export default Heading;

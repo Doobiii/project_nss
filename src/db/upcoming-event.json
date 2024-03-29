@@ -1,0 +1,18 @@
+[
+  {
+    "id":1,
+    "title": "Republic Day",
+    "imgUrl":"https://res.cloudinary.com/sahincloudinary/image/upload/f_auto,q_auto/v1/nss_events/republicDay_0"
+  },
+  {
+    "id":2,
+    "title": "Card 2",
+    "content": "Content for Card 2",
+    "imgUrl": "https://res.cloudinary.com/sahincloudinary/image/upload/f_auto,q_auto/cld-sample-2"
+  },
+  {
+    "id":3,
+    "title": "Republic Day",
+    "imgUrl":"https://res.cloudinary.com/sahincloudinary/image/upload/f_auto,q_auto/v1/nss_events/republicDay_0"
+  }
+]

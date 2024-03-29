@@ -14,19 +14,19 @@ const Team = () => {
       {focus.map((item) => {
         return (
           <SectionTeam
-          key={item.id}
-          designation={item.designation}
-          name={item.name}
-          imageUrl={item.image}
-          facebook={item.facebook}
-          instagram={item.instagram}
-          linkedin={item.linkedin}
-          info={item.info}
+            key={item.id}
+            designation={item.designation}
+            name={item.name}
+            imageUrl={item.image}
+            facebook={item.facebook}
+            instagram={item.instagram}
+            linkedin={item.linkedin}
+            info={item.info}
           />
         );
       })}
-      
-      <Heading title="Joint Secretaries" />
+
+      <Heading title="Core Team" />
       <div className={styles.CardContainer}>
         {data.map((item) => {
           return (

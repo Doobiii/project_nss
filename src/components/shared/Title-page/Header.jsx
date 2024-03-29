@@ -1,6 +1,6 @@
-import "./Header.scss"
+import "./Header.scss";
 
-const Header = ({title}) => {
+const Header = ({ title }) => {
   return (
     <header className="mt-0 w-100">
       <div className="container h-100 d-flex align-items-center justify-content-center">
