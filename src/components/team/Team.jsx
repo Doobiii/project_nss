@@ -26,7 +26,7 @@ const Team = () => {
         );
       })}
 
-      <Heading title="Joint Secretaries" />
+      <Heading title="Core Team" />
       <div className={styles.CardContainer}>
         {data.map((item) => {
           return (

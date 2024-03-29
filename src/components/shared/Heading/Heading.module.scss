@@ -4,12 +4,12 @@
   flex-wrap: wrap;
   height: 3rem;
   margin-block: 1rem;
-  width: 100vw;
+  width: 100%;
   justify-content: center;
   align-items: center;
 
   .bar {
-    // width: 90vw;
+    // width: 90%;
     // height: 70%;
     // //   height: 1rem;
     // background-color: blue;
@@ -20,16 +20,16 @@
     // background: linear-gradient(90deg, #2E9BFF 20.5%, rgba(184, 213, 241, 0.462) 45.5%,#2E9BFF 82.5%);
 
     display: flex;
-    width: 90vw;
+    width: 90%;
     justify-content: space-between;
     .left {
-      width: 40vw;
+      width: 40%;
       height: 1.5rem;
       background: linear-gradient(90deg, #2e9bff, white);
       clip-path: polygon(100% 100%, 0% 50%, 100% 0%);
     }
     .right {
-      width: 40vw;
+      width: 40%;
       height: 1.5rem;
       background: linear-gradient(90deg, white, #2e9bff);
       clip-path: polygon(0% 0%, 100% 50%, 0% 100%);
