@@ -9,7 +9,12 @@ import Header from "../shared/Title-page/Header";
 const Team = () => {
   return (
     <div className={styles.Team}>
-      <Header title="Team" />
+      <Header
+        title="Team"
+        backgroundImage={
+          "https://res.cloudinary.com/sahincloudinary/image/upload/f_auto,q_auto/v1/nss_events/team/iqydnjgf00cynldupcic"
+        }
+      />
       <Heading title="Meet Our Team" />
       {focus.map((item) => {
         return (
@@ -17,7 +22,7 @@ const Team = () => {
             key={item.id}
             designation={item.designation}
             name={item.name}
-            imageUrl={item.image}
+            imageUrl={item.imageUrl}
             facebook={item.facebook}
             instagram={item.instagram}
             linkedin={item.linkedin}
@@ -34,7 +39,7 @@ const Team = () => {
               key={item.id}
               designation={item.designation}
               name={item.name}
-              imageUrl={item.image}
+              imageUrl={item.imageUrl}
               facebook={item.facebook}
               instagram={item.instagram}
               linkedin={item.linkedin}

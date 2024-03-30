@@ -9,14 +9,14 @@ import {
   CardTitle,
 } from "react-bootstrap";
 import Person1 from "../images/person1.jpg";
+import Header from "../shared/Title-page/Header";
 function About() {
   return (
     <div className="about-page">
-      <header className="mt-0 w-100">
-        <div className="container h-100 d-flex align-items-center justify-content-center">
-          <h1 className="text-light display-2">About</h1>
-        </div>
-      </header>
+      <Header
+        title="About Us"
+        backgroundImage="https://res.cloudinary.com/sahincloudinary/image/upload/f_auto,q_auto/v1/nss_events/team/sutlpsi5a0evt6kutntt"
+      />
 
       <div className="container my-5 text-center">
         <p className="mb-2">
@@ -41,13 +41,17 @@ function About() {
         <div className="row gap-0 my-4 px-sm-2">
           <div className="col-lg-6">
             <img
-              src={aboutImg}
-              className="img-fluid rounded mb-3 mb-lg-0"
+              src="https://res.cloudinary.com/sahincloudinary/image/upload/f_auto,q_auto/v1/nss_events/team/tlk4goagexcsktbrukjk"
+              className="img-fluid h-3/4 w-3/4 rounded mb-3 mb-lg-0"
               alt=""
             />
           </div>
           <div className="col-lg-6">
-            <img src={aboutImg} className="img-fluid rounded ml-md-3 " alt="" />
+            <img
+              src="https://res.cloudinary.com/sahincloudinary/image/upload/f_auto,q_auto/v1/nss_events/team/efe7e2wxiao16vcw5fk7"
+              className="img-fluid h-3/4 w-3/4 rounded ml-md-3 "
+              alt=""
+            />
           </div>
         </div>
 
