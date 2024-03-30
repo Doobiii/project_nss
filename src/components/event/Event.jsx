@@ -1,10 +1,8 @@
 import React from "react";
 import "./event.css";
-import eventImg from "../images/img1.jpg";
 import Card from "../card/Card";
 import Heading from "../shared/Heading/Heading";
 import past_events from "../../db/past-event";
-import upcoming_events from "../../db/upcoming-event";
 import Header from "../shared/Title-page/Header";
 const Event = () => {
   return (
@@ -17,11 +15,7 @@ const Event = () => {
       <div className="container my-5">
         <div className="row column-gap-0 mx-4">
           <div className="col-lg-6 col-md-12 d-flex flex-column align-items-center justify-content-center ">
-            <img
-              src="https://res.cloudinary.com/sahincloudinary/image/upload/f_auto,q_auto/v1/nss_events/team/jvw4nonbn9no8y77ntjl"
-              className="img-fluid w-55"
-              alt="about img"
-            />
+            <img src="https://res.cloudinary.com/sahincloudinary/image/upload/f_auto,q_auto/v1/nss_events/team/jvw4nonbn9no8y77ntjl" className="img-fluid w-55" alt="about img" />
           </div>
           <div className="col-lg-6 col-md-12 d-flex flex-column align-items-center justify-content-center text-center">
             <h2 className="fs-1 mb-5 text-uppercase fw-bold">
@@ -47,7 +41,7 @@ const Event = () => {
         </div>
 
         <div className="events my-4 row gap-10">
-          <div className="upcoming-event">
+          {/* <div className="upcoming-event">
             <Heading title="Upcoming Events" />
             <div className="row gap-0 flex align-items-center justify-content-center">
               {upcoming_events.map((card, index) => (
@@ -63,7 +57,7 @@ const Event = () => {
                 </div>
               ))}
             </div>
-          </div>
+          </div> */}
           <div className="past-events">
             <Heading title="Past Events" />
             <div className="row gap-0 flex align-items-center justify-content-center">
@@ -74,7 +68,6 @@ const Event = () => {
                 >
                   <Card
                     title={card.title}
-                    content={card.content}
                     imgUrl={card.imgUrl}
                   />
                 </div>
