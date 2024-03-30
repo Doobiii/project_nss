@@ -1,6 +1,5 @@
 import React from "react";
 import "./about.css";
-import aboutImg from "../images/img1.jpg";
 import {
   Card,
   CardBody,
