@@ -1,5 +1,11 @@
 [
   {
+    "id":0,
+    "title": "Inaguration",
+    "content": "Content for card 0",
+    "imgUrl": "https://res.cloudinary.com/dvm4ovv0x/image/upload/f_auto,q_auto/v1/NSS_EVENTS/m8ebceopqwoajlmzb9ok"
+  },
+  {
     "id":1,
     "title": "Selection Process",
     "content": "Content for Card 1",
@@ -9,7 +15,7 @@
     "id":2,
     "title": "Village Survey",
     "content": "Content for Card 2",
-    "imgUrl": "https://res.cloudinary.com/dvm4ovv0x/image/upload/f_auto,q_auto/v1/NSS_EVENTS/vqrnipk4ao3b9mucnzpf"
+    "imgUrl": "https://res.cloudinary.com/dvm4ovv0x/image/upload/f_auto,q_auto/v1/NSS_EVENTS/betqxmesgseg8dadqnft"
 
   },
   { 
