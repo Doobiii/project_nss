@@ -1,45 +1,45 @@
 [
   {
     "id":1,
-    "title": "Selection Process",
-    "content": "Content for Card 1",
-    "imgUrl": "https://res.cloudinary.com/dvm4ovv0x/image/upload/f_auto,q_auto/v1/NSS_EVENTS/npb9t8yn5w45fgxsr4pz"
+    "title": "Cleaning Event",
+    "content": "Content for card 7",
+    "imgUrl": "https://res.cloudinary.com/dvm4ovv0x/image/upload/f_auto,q_auto/v1/NSS_EVENTS/enowdoewrzfp2mqnznou"
   },
-  { 
+  {
     "id":2,
-    "title": "Village Survey",
-    "content": "Content for Card 2",
-    "imgUrl": "https://res.cloudinary.com/dvm4ovv0x/image/upload/f_auto,q_auto/v1/NSS_EVENTS/vqrnipk4ao3b9mucnzpf"
-
+    "title": "Biodiversity of NITS",
+    "content": "Content for card 6",
+    "imgUrl": "https://res.cloudinary.com/dvm4ovv0x/image/upload/f_auto,q_auto/v1/NSS_EVENTS/ve5qntpjeyzff6mstq9k"
   },
   { 
-     "id":3,
-     "title": "Diwali",
-     "content": "Content for Card 3",
-     "imgUrl": "https://res.cloudinary.com/dvm4ovv0x/image/upload/f_auto,q_auto/v1/NSS_EVENTS/ezv7bvvluqox2arwl0ky"
+    "id":3,
+    "title": "Khadi Mahotsava",
+    "content": "Content for Card 5",
+    "imgUrl": "https://res.cloudinary.com/dvm4ovv0x/image/upload/f_auto,q_auto/v1/NSS_EVENTS/ymkdzefqznlecxmu8s6z"
   },
   { 
     "id":4,
     "title": "Republic Day",
     "content": "Content for Card 4" ,
-    "imgUrl": "https://res.cloudinary.com/dvm4ovv0x/image/upload/f_auto,q_auto/v1/NSS_EVENTS/d7qjjcjxzuvirdq1z9m8"
+    "imgUrl": "https://res.cloudinary.com/dfew9we6n/image/upload/v1711891234/Parade/parade_4.webp"
   },
   { 
     "id":5,
-    "title": "Khadi",
-    "content": "Content for Card 5",
-    "imgUrl": "https://res.cloudinary.com/dvm4ovv0x/image/upload/f_auto,q_auto/v1/NSS_EVENTS/ymkdzefqznlecxmu8s6z"
-  },
-  {
+     "title": "Diwali Donation Drive",
+     "content": "Content for Card 3",
+     "imgUrl": "https://res.cloudinary.com/dkntkq8iv/image/upload/v1711890781/Diwali%20donation%20Drive/diwaliDonation1.webp"
+    },
+  { 
     "id":6,
-    "title": "Biodiversity",
-    "content": "Content for card 6",
-    "imgUrl": "https://res.cloudinary.com/dvm4ovv0x/image/upload/f_auto,q_auto/v1/NSS_EVENTS/ve5qntpjeyzff6mstq9k"
+    "title": "Village Survey",
+    "content": "Content for Card 2",
+    "imgUrl": "https://res.cloudinary.com/dizapcy3k/image/upload/v1711917454/survey_4_shdz1z.webp"
+  
   },
   {
     "id":7,
-    "title": "Cleaning Event",
-    "content": "Content for card 7",
-    "imgUrl": "https://res.cloudinary.com/dvm4ovv0x/image/upload/f_auto,q_auto/v1/NSS_EVENTS/enowdoewrzfp2mqnznou"
+    "title": "Selection Process",
+    "content": "Content for Card 1",
+    "imgUrl": "https://res.cloudinary.com/dvm4ovv0x/image/upload/f_auto,q_auto/v1/NSS_EVENTS/npb9t8yn5w45fgxsr4pz"
   }
 ]
