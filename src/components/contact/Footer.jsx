@@ -1,8 +1,7 @@
 import React from "react";
 import { FaFacebookF, FaInstagram } from "react-icons/fa";
-import { IoCallOutline, IoMailOutline } from "react-icons/io5";
+import { IoMailOutline } from "react-icons/io5";
 import "./Footer.css";
-//import MapImage from '../images/img1.jpg'; // Import the square image here
 
 const Contact = () => {
   const goFb = () => {
@@ -13,6 +12,15 @@ const Contact = () => {
 
   const goIg = () => {
     window.location.replace("https://www.instagram.com/nss_nits/");
+  };
+  const Nss = () => {
+    window.location.replace("https://nss.gov.in//");
+  };
+  const nits = () => {
+    window.location.replace("http://www.nits.ac.in/");
+  };
+  const youth = () => {
+    window.location.replace("https://www.india.gov.in/topics/youth-sports");
   };
 
   return (
@@ -35,10 +43,7 @@ const Contact = () => {
                 <h3 className="heading text-xl mb-2">Contact Us</h3>
                 <div className="contact-icon">
                   <p className="flex items-center gap-3">
-                    <IoMailOutline /> mail@gmail.com
-                  </p>
-                  <p className="flex  items-center gap-3">
-                    <IoCallOutline /> +91-9999900000
+                    <IoMailOutline /> nssnits@nits.ac.in
                   </p>
                 </div>
               </div>
@@ -62,9 +67,9 @@ const Contact = () => {
               <div className="imp-link py-4">
                 <h3 className="heading text-base">Important Links</h3>
                 <ul className="listing py-2">
-                  <li>link_1</li>
-                  <li>link_2</li>
-                  <li>link_3</li>
+                  <li onClick={Nss}>NSS Official</li>
+                  <li onClick={nits}>NIT SIlchar</li>
+                  <li onClick={youth}>Youth and Sports</li>
                 </ul>
               </div>
             </div>
