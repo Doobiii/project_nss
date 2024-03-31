@@ -1,23 +1,15 @@
 [
   {
     "id": 1,
-    "name": "Abhijit Das",
-    "designation": "Treasurer",
-    "imageUrl": "https://res.cloudinary.com/sahincloudinary/image/upload/f_auto,q_auto/v1/nss_events/team/abhijit",
-    "facebook": "https://www.facebook.com/profile.php?id=100052769931758",
-    "linkedin": "https://www.linkedin.com/in/abhijit-das-61702222a/",
-    "instagram": "https://www.instagram.com/a_bhi_das/"
+    "name": "Aryan Kumar Singh",
+    "designation": "Vice President",
+    "imageUrl": "/images/Aryan.webp",
+    "facebook": "https://www.facebook.com/profile.php?id=100033375191535",
+    "linkedin": "https://www.linkedin.com/in/aryan-singh-41613a256",
+    "instagram":"https://www.instagram.com/aryansingh2964?igsh=OXltZWRrdjNmY290"
   },
   {
     "id": 2,
-    "name": "Aryan Kumar Singh",
-    "designation": "Vice President",
-    "imageUrl": "",
-    "facebook": "https://www.facebook.com/sahin.alam.9216778?mibextid=ZbWKwL",
-    "linkedin": "https://www.linkedin.com/in/sahin-alam-96250324a/"
-  },
-  {
-    "id": 3,
     "name": "VISHAL VARMA",
     "designation": "General Secretary",
     "imageUrl": "https://res.cloudinary.com/sahincloudinary/image/upload/f_auto,q_auto/v1/nss_events/team/vishal",
@@ -26,9 +18,18 @@
     "instagram": "https://www.instagram.com/vish_al_varma?igsh=MWJidWZidWFuNjF2ag=="
   },
   {
+    "id": 3,
+    "name": "Abhijit Das",
+    "designation": "Treasurer",
+    "imageUrl": "https://res.cloudinary.com/sahincloudinary/image/upload/f_auto,q_auto/v1/nss_events/team/abhijit",
+    "facebook": "https://www.facebook.com/profile.php?id=100052769931758",
+    "linkedin": "https://www.linkedin.com/in/abhijit-das-61702222a/",
+    "instagram": "https://www.instagram.com/a_bhi_das/"
+  },
+  {
     "id": 4,
     "name": "Jaan Baishya ",
-    "designation": "Joint Secretary of Resource Team",
+    "designation": "Joint Secretary (Resource)",
     "imageUrl": "https://res.cloudinary.com/sahincloudinary/image/upload/f_auto,q_auto/v1/nss_events/team/jaan",
     "facebook": "https://www.facebook.com/jaan.baishya.56?mibextid=ZbWKwL",
     "linkedin": "https://www.linkedin.com/in/jaan-baishya-82006a230",
@@ -37,7 +38,7 @@
   {
     "id": 5,
     "name": "Pratap Sing ",
-    "designation": "Joint Secretary of Resource Team",
+    "designation": "Joint Secretary (Resource) ",
     "imageUrl": "https://res.cloudinary.com/sahincloudinary/image/upload/f_auto,q_auto/v1/nss_events/team/pratap",
     "facebook": "https://www.facebook.com/share/mDcjoZ2ULem9DY1F/?mibextid=qi2Omg",
     "linkedin": "https://www.linkedin.com/in/pratap-sing-096a79240",
@@ -46,10 +47,19 @@
   {
     "id": 6,
     "name": "Deepak Kumar Singh",
-    "designation": "Joint Secretary of Secretary of Tech",
+    "designation": "Joint Secretary (Tech)",
     "imageUrl": "https://res.cloudinary.com/sahincloudinary/image/upload/f_auto,q_auto/v1/nss_events/team/deepak",
     "facebook": "https://www.facebook.com/profile.php?id=100041481200079&mibextid=ZbWKwL",
     "linkedin": "https://www.linkedin.com/in/deepak-singh-3a9b2a247",
     "instagram": "https://www.instagram.com/doobii___?igsh=MWducjh4ejA5MW82dw=="
+  },
+  {
+    "id":7,
+    "name": "Jakka Shashi Kumar",
+    "designation": "Joint Secretary ",
+    "imageUrl":"/images/Jakka.webp",
+    "facebook": "https://www.facebook.com/profile.php?id=100010422520194",
+    "linkedin": "https://www.linkedin.com/in/shashi-kumar-jakka-a38092241/",
+    "instagram": ""
   }
 ]
