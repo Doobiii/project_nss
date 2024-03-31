@@ -114,7 +114,7 @@ const Navbar = () => {
           {click ? (
             <MdClose size={25} style={{ color: "white" }} />
           ) : (
-            <TfiAlignRight size={20} style={{ color: "white" }} />
+            <TfiAlignRight size={25} style={{ color: "white" }} />
           )}
         </div>
       </div>
