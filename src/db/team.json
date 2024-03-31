@@ -29,7 +29,7 @@
   {
     "id": 4,
     "name": "Jaan Baishya ",
-    "designation": "Joint Secretary (Resource)",
+    "designation": "Joint Secretary (Resource Control)",
     "imageUrl": "https://res.cloudinary.com/sahincloudinary/image/upload/f_auto,q_auto/v1/nss_events/team/jaan",
     "facebook": "https://www.facebook.com/jaan.baishya.56?mibextid=ZbWKwL",
     "linkedin": "https://www.linkedin.com/in/jaan-baishya-82006a230",
@@ -38,7 +38,7 @@
   {
     "id": 5,
     "name": "Pratap Sing ",
-    "designation": "Joint Secretary (Resource) ",
+    "designation": "Joint Secretary (Research) ",
     "imageUrl": "https://res.cloudinary.com/sahincloudinary/image/upload/f_auto,q_auto/v1/nss_events/team/pratap",
     "facebook": "https://www.facebook.com/share/mDcjoZ2ULem9DY1F/?mibextid=qi2Omg",
     "linkedin": "https://www.linkedin.com/in/pratap-sing-096a79240",
@@ -56,10 +56,19 @@
   {
     "id":7,
     "name": "Jakka Shashi Kumar",
-    "designation": "Joint Secretary ",
+    "designation": "Joint Secretary (Design)",
     "imageUrl":"/images/Jakka.webp",
     "facebook": "https://www.facebook.com/profile.php?id=100010422520194",
     "linkedin": "https://www.linkedin.com/in/shashi-kumar-jakka-a38092241/",
-    "instagram": ""
+    "instagram": "#"
+  },
+  {
+    "id":8,
+    "name": "Bishal Das",
+    "designation": "Joint Secretary (PR)",
+    "imageUrl":"/images/Jakka.webp",
+    "facebook": "#",
+    "linkedin": "#",
+    "instagram": "#"
   }
 ]
