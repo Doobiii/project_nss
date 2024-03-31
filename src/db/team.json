@@ -64,9 +64,18 @@
   },
   {
     "id":8,
-    "name": "Bishal Das",
-    "designation": "Joint Secretary (PR)",
+    "name": "Ayan Choudhary",
+    "designation": "Joint Secretary (Design)",
     "imageUrl":"/images/Jakka.webp",
+    "facebook": "#",
+    "linkedin": "#",
+    "instagram": "#"
+  },
+  {
+    "id":9,
+    "name": "Bishal Das",
+    "designation": "Joint Secretary (PR and Media)",
+    "imageUrl":"https://res.cloudinary.com/dizapcy3k/image/upload/v1711919329/bishal.jpg",
     "facebook": "#",
     "linkedin": "#",
     "instagram": "#"
