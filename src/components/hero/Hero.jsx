@@ -15,7 +15,7 @@ const Hero = () => {
         <Carousel.Item>
           <img
             className="d-block w-100"
-            src="https://res.cloudinary.com/sahincloudinary/image/upload/f_auto,q_auto/v1/nss_events/team/jvw4nonbn9no8y77ntjl"
+            src="https://res.cloudinary.com/dvm4ovv0x/image/upload/f_auto,q_auto/v1/NSS_EVENTS/vqrnipk4ao3b9mucnzpf"
             alt="first"
           />
           <Carousel.Caption>
@@ -26,7 +26,7 @@ const Hero = () => {
         <Carousel.Item>
           <img
             className="d-block w=100"
-            src="https://res.cloudinary.com/dvm4ovv0x/image/upload/f_auto,q_auto/v1/NSS_EVENTS/vqrnipk4ao3b9mucnzpf"
+            src="https://res.cloudinary.com/dkntkq8iv/image/upload/v1711890773/Diwali%20donation%20Drive/DiwaliDonation2.webp"
             alt="third"
           />
           <Carousel.Caption>
