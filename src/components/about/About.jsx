@@ -1,6 +1,5 @@
 import React from "react";
 import "./about.css";
-import aboutImg from "../images/img1.jpg";
 import {
   Card,
   CardBody,
@@ -39,14 +38,14 @@ function About() {
         </p>
 
         <div className="row gap-0 my-4 px-sm-2">
-          <div className="col-lg-6">
+          <div className="col-lg-6 d-flex flex-column align-items-center justify-content-center ">
             <img
               src="https://res.cloudinary.com/sahincloudinary/image/upload/f_auto,q_auto/v1/nss_events/team/tlk4goagexcsktbrukjk"
               className="img-fluid h-3/4 w-3/4 rounded mb-3 mb-lg-0"
               alt=""
             />
           </div>
-          <div className="col-lg-6">
+          <div className="col-lg-6 d-flex flex-column align-items-center justify-content-center">
             <img
               src="https://res.cloudinary.com/sahincloudinary/image/upload/f_auto,q_auto/v1/nss_events/team/efe7e2wxiao16vcw5fk7"
               className="img-fluid h-3/4 w-3/4 rounded ml-md-3 "

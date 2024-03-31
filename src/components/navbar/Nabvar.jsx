@@ -3,7 +3,7 @@ import React, { useState } from "react";
 import { TfiAlignRight } from "react-icons/tfi";
 import { MdClose } from "react-icons/md";
 import { Link } from "react-router-dom";
-import Logo from "../images/logo-removebg-preview.png";
+import Logo from "../images/nss.png";
 
 const Navbar = () => {
   const scrollToTop = () => {
