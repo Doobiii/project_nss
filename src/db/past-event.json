@@ -1,51 +1,51 @@
 [
   {
-    "id":0,
-    "title": "Inaguration",
+    "id":1,
+    "title": "NSS Inaguration",
     "content": "Content for card 0",
     "imgUrl": "https://res.cloudinary.com/dvm4ovv0x/image/upload/f_auto,q_auto/v1/NSS_EVENTS/m8ebceopqwoajlmzb9ok"
   },
   {
-    "id":1,
+    "id":2,
     "title": "Selection Process",
     "content": "Content for Card 1",
     "imgUrl": "https://res.cloudinary.com/dvm4ovv0x/image/upload/f_auto,q_auto/v1/NSS_EVENTS/npb9t8yn5w45fgxsr4pz"
   },
   { 
-    "id":2,
+    "id":3,
     "title": "Village Survey",
     "content": "Content for Card 2",
     "imgUrl": "https://res.cloudinary.com/dvm4ovv0x/image/upload/f_auto,q_auto/v1/NSS_EVENTS/betqxmesgseg8dadqnft"
 
   },
   { 
-     "id":3,
-     "title": "Diwali donation drive",
+     "id":4,
+     "title": "Diwali Donation Drive",
      "content": "Content for Card 3",
      "imgUrl": "https://res.cloudinary.com/dvm4ovv0x/image/upload/f_auto,q_auto/v1/NSS_EVENTS/ezv7bvvluqox2arwl0ky"
   },
   { 
-    "id":4,
-    "title": "Republic day parade",
+    "id":5,
+    "title": "Republic Day Parade",
     "content": "Content for Card 4" ,
     "imgUrl": "https://res.cloudinary.com/dvm4ovv0x/image/upload/f_auto,q_auto/v1/NSS_EVENTS/d7qjjcjxzuvirdq1z9m8"
   },
   { 
-    "id":5,
+    "id":6,
     "title": "Khadi Mahotsava",
     "content": "Content for Card 5",
     "imgUrl": "https://res.cloudinary.com/dvm4ovv0x/image/upload/f_auto,q_auto/v1/NSS_EVENTS/ymkdzefqznlecxmu8s6z"
-  },
-  {
-    "id":6,
-    "title": "Biodiversity speaker session",
-    "content": "Content for card 6",
-    "imgUrl": "https://res.cloudinary.com/dvm4ovv0x/image/upload/f_auto,q_auto/v1/NSS_EVENTS/ve5qntpjeyzff6mstq9k"
   },
   {
     "id":7,
     "title": "Cleaning Event",
     "content": "Content for card 7",
     "imgUrl": "https://res.cloudinary.com/dvm4ovv0x/image/upload/f_auto,q_auto/v1/NSS_EVENTS/enowdoewrzfp2mqnznou"
+  },
+  {
+    "id":8,
+    "title": "Biodiversity Speaker Session",
+    "content": "Content for card 6",
+    "imgUrl": "https://res.cloudinary.com/dvm4ovv0x/image/upload/f_auto,q_auto/v1/NSS_EVENTS/ve5qntpjeyzff6mstq9k"
   }
 ]
