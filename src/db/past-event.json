@@ -14,25 +14,25 @@
   },
   { 
      "id":3,
-     "title": "Diwali",
+     "title": "Diwali donation drive",
      "content": "Content for Card 3",
      "imgUrl": "https://res.cloudinary.com/dvm4ovv0x/image/upload/f_auto,q_auto/v1/NSS_EVENTS/ezv7bvvluqox2arwl0ky"
   },
   { 
     "id":4,
-    "title": "Republic Day",
+    "title": "Republic day parade",
     "content": "Content for Card 4" ,
     "imgUrl": "https://res.cloudinary.com/dvm4ovv0x/image/upload/f_auto,q_auto/v1/NSS_EVENTS/d7qjjcjxzuvirdq1z9m8"
   },
   { 
     "id":5,
-    "title": "Khadi",
+    "title": "Khadi Mahotsava",
     "content": "Content for Card 5",
     "imgUrl": "https://res.cloudinary.com/dvm4ovv0x/image/upload/f_auto,q_auto/v1/NSS_EVENTS/ymkdzefqznlecxmu8s6z"
   },
   {
     "id":6,
-    "title": "Biodiversity",
+    "title": "Biodiversity speaker session",
     "content": "Content for card 6",
     "imgUrl": "https://res.cloudinary.com/dvm4ovv0x/image/upload/f_auto,q_auto/v1/NSS_EVENTS/ve5qntpjeyzff6mstq9k"
   },
