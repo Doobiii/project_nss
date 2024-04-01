@@ -53,22 +53,17 @@ const Home = () => {
             </div>
           </div>
         </div>
-        {/* <div className="work_status flex p-12 mx-auto justify-center items-end min-h-80">
-          <div className="register w-1/4 mx-auto flex justify-center items-end">Total registrations</div>
-          <div className="donations w-1/4 mx-auto flex justify-center items-end"> Total donations made</div>
-          <div className="tobeadded w-1/4 mx-auto flex justify-center items-end" id="">Lorem ipsum dolor </div>
-          <div className="seminars w-1/4 mx-auto flex justify-center items-end">Seminars conducted</div>
-        </div> */}
+      
 
-        <div className='status p-12 min-h-1/2 '>
+        <div className='status p-12 font-sans min-h-1/2 '>
           <div className='grid grid-cols-1 sm:grid-cols-2 gap-4'>
             <div className="bigbox1 grid md:grid-cols-2 ">
             <div className=' boxes text-4xl font-bold flex flex-col items-center justify-center '>
-              <p className='num text-8xl text-red-500 py-4'>150</p>
+              <p className='num text-8xl text-red-500 py-4'>150+</p>
               <p className=' des text-lg font-bold'>Total Registrations</p>
             </div>
             <div className=' boxes text-4xl font-bold flex flex-col items-center justify-center'>
-              <p className='num text-8xl text-red-500 py-4'>100</p>
+              <p className='num text-8xl text-red-500 py-4'>100+</p>
               <p className=' des text-lg font-bold'>Tree Plantations Done</p>
             </div>
             </div>
@@ -78,7 +73,7 @@ const Home = () => {
               <p className=' des text-lg font-bold'>Donation Camps</p>
             </div>
             <div className=' boxes text-4xl font-bold flex flex-col items-center justify-center'>
-              <p className='num text-8xl text-red-500 py-4'>5</p>
+              <p className='num text-8xl text-red-500 py-4'>5+</p>
               <p className=' des text-lg font-bold'>Seminars Taken</p>
             </div>
             </div>
