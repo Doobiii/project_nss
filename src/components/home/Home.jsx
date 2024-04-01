@@ -55,26 +55,40 @@ const Home = () => {
         </div>
       
 
-        <div className='status p-12 font-sans min-h-1/2 '>
-          <div className='grid grid-cols-1 sm:grid-cols-2 gap-4'>
+        <div className='status p-12  font-sans min-h-1/2 '>
+          <div className=' xl:12 lg:px-20 md:px-24 grid grid-cols-1 sm:grid-cols-2 gap-4'>
             <div className="bigbox1 grid md:grid-cols-2 ">
             <div className=' boxes text-4xl font-bold flex flex-col items-center justify-center '>
-              <p className='num text-8xl text-red-500 py-4'>150+</p>
-              <p className=' des text-lg font-bold'>Total Registrations</p>
+              <div className="figures flex items-center text-red-500 ">
+              <p className='num text-7xl text-red-500 py-4'>165</p>
+              <span className="plus block">+</span>
+              </div>
+              <p className=' des text-lg font-bold'>Total Volunteers</p>
             </div>
-            <div className=' boxes text-4xl font-bold flex flex-col items-center justify-center'>
-              <p className='num text-8xl text-red-500 py-4'>100+</p>
-              <p className=' des text-lg font-bold'>Tree Plantations Done</p>
+
+            <div className=' boxes text-4xl font-bold flex flex-col items-center justify-center '>
+            <div className="figures flex items-center text-red-500 ">
+              <p className='num text-7xl text-red-500 py-4'>25</p>
+              <span className="plus block">+</span>
+              </div>
+              <p className=' des text-lg font-bold'>Total Events</p>
             </div>
             </div>
+
             <div className="bigbox2 grid md:grid-cols-2">
             <div className=' boxes text-4xl font-bold flex flex-col items-center justify-center md:'>
-              <p className='num text-8xl text-red-500 py-4'>2</p>
+            <div className="figures flex items-center text-red-500 ">
+              <p className='num text-7xl text-red-500 py-4'>2</p>
+              <span className="plus block">+</span>
+              </div>
               <p className=' des text-lg font-bold'>Donation Camps</p>
             </div>
             <div className=' boxes text-4xl font-bold flex flex-col items-center justify-center'>
-              <p className='num text-8xl text-red-500 py-4'>5+</p>
-              <p className=' des text-lg font-bold'>Seminars Taken</p>
+            <div className="figures flex items-center text-red-500 ">
+              <p className='num text-7xl text-red-500 py-4'>5</p>
+              <span className="plus block">+</span>
+              </div>
+              <p className=' des text-lg font-bold'>Expert Talks</p>
             </div>
             </div>
            
