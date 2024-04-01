@@ -1,0 +1,23 @@
+@media only screen and (max-width: 924px){
+    .status{
+        padding: 2rem;
+    }
+    .num{
+        font-size: 5rem;
+    }
+     .des{
+        font-size: 1rem;
+    }
+}
+
+@media only screen and (max-width: 768px){
+  .boxes{
+    padding-bottom: 2rem;
+  }
+  .num{
+    font-size: 6rem;
+}
+ .des{
+    font-size: 1.125rem;
+}
+}
