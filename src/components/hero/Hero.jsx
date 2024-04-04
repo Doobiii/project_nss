@@ -15,7 +15,7 @@ const Hero = () => {
         <Carousel.Item>
           <img
             className="d-block w-100"
-            src="https://res.cloudinary.com/dvm4ovv0x/image/upload/f_auto,q_auto/v1/NSS_EVENTS/vqrnipk4ao3b9mucnzpf"
+            src="https://res.cloudinary.com/sahincloudinary/image/upload/f_auto,q_auto/v1/nss_events/team/alxumd0y2gadbc9tevco"
             alt="first"
           />
           <Carousel.Caption>
@@ -37,7 +37,7 @@ const Hero = () => {
         <Carousel.Item>
           <img
             className="d-block w=100"
-            src="https://res.cloudinary.com/sahincloudinary/image/upload/f_auto,q_auto/v1/nss_events/team/alxumd0y2gadbc9tevco"
+            src="https://res.cloudinary.com/dvm4ovv0x/image/upload/f_auto,q_auto/v1/NSS_EVENTS/vqrnipk4ao3b9mucnzpf"
             alt="second"
           />
           <Carousel.Caption>
