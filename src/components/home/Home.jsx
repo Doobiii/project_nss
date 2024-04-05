@@ -55,6 +55,7 @@ const Home = () => {
         </div>
 
         <div className="status p-12  font-sans min-h-1/2 my-10">
+        <p className="data text-6xl font-bold xl:12 lg:px-24 md:px-24">PRINCIPAL DATA</p>
           <div className="xl:12 lg:px-20 md:px-24 grid grid-cols-1 sm:grid-cols-2 gap-4">
             <div className="bigbox1 grid md:grid-cols-2 ">
               <div className=" boxes text-4xl font-bold flex flex-col items-center justify-center ">
