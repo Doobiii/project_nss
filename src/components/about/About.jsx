@@ -74,19 +74,26 @@ function About() {
               <div className="col-lg-6 deta">
                 <Card className="h-100 shadow">
                   <CardBody>
-                    <div className="p-4">
+                    <div className="p-4 xyz">
                       <CardText>
                         <strong> {item.info[0]}</strong>
                       </CardText>
                     </div>
                   </CardBody>
                   <CardFooter className="d-flex align-items-center">
-                    <img
-                      src={item.imageUrl}
-                      className="img-fluid rounded-circle mx-3 shadow"
-                      alt={item.name}
-                    />
-                    <CardTitle className="text-success">
+                    <div style={{ width: "5rem", height: "5rem" }}>
+                      <img
+                        src={item.imageUrl}
+                        className="img-fluid rounded-circle shadow"
+                        alt={item.name}
+                        style={{
+                          width: "100%",
+                          height: "100%",
+                          objectFit: "cover",
+                        }}
+                      />
+                    </div>
+                    <CardTitle className="text-success ml-4">
                       {item.name}
                       <br />
                       {item.designation}
