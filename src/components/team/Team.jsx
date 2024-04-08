@@ -15,7 +15,7 @@ const Team = () => {
           "https://res.cloudinary.com/sahincloudinary/image/upload/f_auto,q_auto/v1/nss_events/team/iqydnjgf00cynldupcic"
         }
       />
-      <Heading title="Meet Our Team" />
+      <Heading title="Our Team" />
       {focus.map((item) => {
         return (
           <SectionTeam
