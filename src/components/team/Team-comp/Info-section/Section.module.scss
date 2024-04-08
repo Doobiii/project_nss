@@ -1,16 +1,19 @@
 .section{
     display: flex;
     width: 80vw;
-    text-align: center;
+    // text-align: center;
     justify-content: space-evenly;
-    font-size: 1.4vw;
+    align-items: center;
+    font-size: 1.1vw;
     padding: 1rem;
     gap: 1rem;
     .info{
         display: flex;
         width:50vw;
-        align-items: center;
         padding: 1rem;
+        flex-direction: column;
+        gap: 0.625rem;
+        // font-size: 1rem;
     }
     @media screen and (min-width:721px){
         &:nth-child(odd){
