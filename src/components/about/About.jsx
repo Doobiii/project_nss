@@ -7,6 +7,7 @@ import {
   CardFooter,
   CardTitle,
 } from "react-bootstrap";
+import data from "../../db/team-focus.json";
 import Header from "../shared/Title-page/Header";
 function About() {
   return (
@@ -68,76 +69,33 @@ function About() {
       </div>
       <div className="content-section container p-5">
         <div className="row ">
-          <div className="col-lg-6 deta">
-            <Card className="h-100 shadow">
-              <CardBody>
-                <div className="p-4">
-                  <CardText>
-                    Lorem ipsum dolor sit amet consectetur adipisicing elit.
-                    Excepturi iste culpa perspiciatis. Magnam, explicabo cumque.
-                  </CardText>
-                </div>
-              </CardBody>
-              <CardFooter className="d-flex align-items-center">
-                <div
-                  className="rounded-circle overflow-hidden mx-3 shadow"
-                  style={{ width: "6em", height: "6em" }}
-                >
-                  <img
-                    src="https://res.cloudinary.com/db5sgw4tj/image/upload/f_auto,q_auto/v1/NSS_IMAGE/km8lhmtultlbatq6rulf"
-                    className="img-fluid"
-                    alt="shankar-sir"
-                    style={{
-                      width: "100%",
-                      height: "100%",
-                      objectFit: "cover",
-                      backgroundPosition: "center",
-                    }}
-                  />
-                </div>
-                <CardTitle className="text-success">
-                  Dr. Shankar K.
-                  <br />
-                  Programme Officer
-                </CardTitle>
-              </CardFooter>
-            </Card>
-          </div>
-          <div className="col-lg-6 deta">
-            <Card className="h-100 shadow">
-              <CardBody>
-                <div className="p-4">
-                  <CardText>
-                    Lorem ipsum dolor sit amet consectetur adipisicing elit.
-                    Excepturi iste culpa perspiciatis. Magnam, explicabo cumque.
-                  </CardText>
-                </div>
-              </CardBody>
-              <CardFooter className="d-flex align-items-center">
-                <div
-                  className="rounded-circle overflow-hidden mx-3 shadow"
-                  style={{ width: "6em", height: "6em" }}
-                >
-                  <img
-                    src="https://res.cloudinary.com/sahincloudinary/image/upload/f_auto,q_auto/v1/nss_events/team/havriumpmcv1cvtypiin"
-                    className="img-fluid"
-                    alt="pranto"
-                    style={{
-                      width: "100%",
-                      height: "100%",
-                      objectFit: "cover",
-                      backgroundPosition: "center",
-                    }}
-                  />
-                </div>
-                <CardTitle className="text-success">
-                  Pranto Das
-                  <br />
-                  President
-                </CardTitle>
-              </CardFooter>
-            </Card>
-          </div>
+          {data.map((item, index) => {
+            return (
+              <div className="col-lg-6 deta">
+                <Card className="h-100 shadow">
+                  <CardBody>
+                    <div className="p-4">
+                      <CardText>
+                        <strong> {item.info[0]}</strong>
+                      </CardText>
+                    </div>
+                  </CardBody>
+                  <CardFooter className="d-flex align-items-center">
+                    <img
+                      src={item.imageUrl}
+                      className="img-fluid rounded-circle mx-3 shadow"
+                      alt={item.name}
+                    />
+                    <CardTitle className="text-success">
+                      {item.name}
+                      <br />
+                      {item.designation}
+                    </CardTitle>
+                  </CardFooter>
+                </Card>
+              </div>
+            );
+          })}
         </div>
       </div>
     </div>

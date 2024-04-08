@@ -18,15 +18,21 @@ const TeamCard = (props) => {
       <div className={styles.info}>
         <div>{props.name}</div>
         <div className={styles.socials}>
-          <a target="blank" href={props.facebook}>
-            <Icon icon="logos:facebook" />
-          </a>
-          <a target="blank" href={props.instagram}>
-            <Icon icon="skill-icons:instagram" />
-          </a>
-          <a target="blank" href={props.linkedin}>
-            <Icon icon="skill-icons:linkedin" />
-          </a>
+          {props.facebook && (
+            <a target="blank" href={props.facebook}>
+              <Icon icon="logos:facebook" />
+            </a>
+          )}
+          {props.instagram && (
+            <a target="blank" href={props.instagram}>
+              <Icon icon="skill-icons:instagram" />
+            </a>
+          )}
+          {props.linkedin && (
+            <a target="blank" href={props.linkedin}>
+              <Icon icon="skill-icons:linkedin" />
+            </a>
+          )}
         </div>
       </div>
     </div>
