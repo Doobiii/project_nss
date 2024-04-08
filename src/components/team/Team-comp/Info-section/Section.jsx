@@ -14,7 +14,7 @@ const SectionTeam = (props) => {
       />
       <div className={styles.info}>
         {props.info
-          ? props.info
+          ? props.info.map((info, index) => <p key={index}>{info}</p>)
           : "loregvr mjbvoubki b voiphvoin jbvkib k  mnuoibvk m bk  fkbpdifbvk cmmojf mcvdjdiuvb mnfd   f bjlf dj dfm jm dik kd vkdbvihofnev m j dfjb jke v mbibviedb f"}
       </div>
     </div>

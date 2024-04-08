@@ -7,7 +7,7 @@ import {
   CardFooter,
   CardTitle,
 } from "react-bootstrap";
-import Person1 from "../images/person1.jpg";
+import data from "../../db/team-focus.json";
 import Header from "../shared/Title-page/Header";
 function About() {
   return (
@@ -69,54 +69,33 @@ function About() {
       </div>
       <div className="content-section container p-5">
         <div className="row ">
-          <div className="col-lg-6 deta">
-            <Card className="h-100 shadow">
-              <CardBody>
-                <div className="p-4">
-                  <CardText>
-                    Lorem ipsum dolor sit amet consectetur adipisicing elit.
-                    Excepturi iste culpa perspiciatis. Magnam, explicabo cumque.
-                  </CardText>
-                </div>
-              </CardBody>
-              <CardFooter className="d-flex align-items-center">
-                <img
-                  src={Person1}
-                  className="img-fluid rounded-circle mx-3 shadow"
-                  alt=""
-                />
-                <CardTitle className="text-success">
-                  S. Shankar Sir
-                  <br />
-                  Programme Officer
-                </CardTitle>
-              </CardFooter>
-            </Card>
-          </div>
-          <div className="col-lg-6 deta">
-            <Card className="h-100 shadow">
-              <CardBody>
-                <div className="p-4">
-                  <CardText>
-                    Lorem ipsum dolor sit amet consectetur adipisicing elit.
-                    Excepturi iste culpa perspiciatis. Magnam, explicabo cumque.
-                  </CardText>
-                </div>
-              </CardBody>
-              <CardFooter className="d-flex align-items-center">
-                <img
-                  src={Person1}
-                  className="img-fluid rounded-circle mx-3 shadow"
-                  alt=""
-                />
-                <CardTitle className="text-success">
-                  Pranto Das
-                  <br />
-                  President
-                </CardTitle>
-              </CardFooter>
-            </Card>
-          </div>
+          {data.map((item, index) => {
+            return (
+              <div className="col-lg-6 deta">
+                <Card className="h-100 shadow">
+                  <CardBody>
+                    <div className="p-4">
+                      <CardText>
+                        <strong> {item.info[0]}</strong>
+                      </CardText>
+                    </div>
+                  </CardBody>
+                  <CardFooter className="d-flex align-items-center">
+                    <img
+                      src={item.imageUrl}
+                      className="img-fluid rounded-circle mx-3 shadow"
+                      alt={item.name}
+                    />
+                    <CardTitle className="text-success">
+                      {item.name}
+                      <br />
+                      {item.designation}
+                    </CardTitle>
+                  </CardFooter>
+                </Card>
+              </div>
+            );
+          })}
         </div>
       </div>
     </div>

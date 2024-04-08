@@ -1,12 +1,31 @@
 [
   {
     "id": "1",
-    "name": "Pranto Das",
-    "designation": "President",
-    "imageUrl": "https://res.cloudinary.com/sahincloudinary/image/upload/f_auto,q_auto/v1/nss_events/team/havriumpmcv1cvtypiin",
+    "name": "Dr. Shankar. K",
+    "designation": "Program Officer",
+    "imageUrl": "/images/Dr. Shankar. K.jpg",
     "facebook": "",
     "instagram": "",
     "linkedin": "",
-    "info": "Lorem ipsum, dolor sit amet consectetur adipisicing elit.autem voluptatem omnis architecto iste sed temporibus!"
+    "info": [
+      "Service is always selfless and it begins from the mindset of thinking about others. Hence, the moto of NSS is set as NOT ME BUT YOU.",
+      "We, the National Service Scheme (NSS) of NIT Silchar, are keen in bringing the positive changes in minds of everyone in and around the campus. NSS-NITS believes in doing rather than preaching; our dedicated volunteers are involving themselves in the activities start from education to health, fitness to cleanliness and environment to Biodiversity. In addition, we regularly visit nearby villages to make the people aware of health and other Govt. schemes. ",
+      "We understand, the sky is the limit: Let's expand and extend our good thoughts to create inclusive surroundings.",
+      "Read good! Think good! Act good!"
+    ]
+  },
+  {
+    "id": "2",
+    "name": "Pranto Das",
+    "designation": "President",
+    "imageUrl": "https://res.cloudinary.com/sahincloudinary/image/upload/f_auto,q_auto/v1/nss_events/team/havriumpmcv1cvtypiin",
+    "facebook": "https://www.facebook.com/pranto.das.01",
+    "instagram": "",
+    "linkedin": "https://www.linkedin.com/in/pranto-das-6a8a27191/",
+    "info": [
+      "We envision our unit as a dynamic force for positive change within our campus and the surrounding community. Our mission is to establish a sense of social responsibility, empathy, and leadership in our members while actively engaging in meaningful service projects that address local needs.",
+      "We strive to foster a culture of volunteerism and encourage students to utilize their skills and knowledge for the betterment of society. Through a diverse range of initiatives, including environmental conservation, education outreach, health awareness campaigns and community development projects, we aim to make a tangible impact and inspire others to join us in our efforts.",
+      "Together, we will work tirelessly to uphold the principles of the National Service Scheme and contribute meaningfully to the development of our campus, our community and our nation."
+    ]
   }
 ]
