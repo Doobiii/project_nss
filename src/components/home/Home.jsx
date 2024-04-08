@@ -2,6 +2,7 @@ import React from "react";
 import { Link } from "react-router-dom";
 import { Button } from "react-bootstrap";
 import Hero from "../hero/Hero";
+import "./home.css";
 
 const Home = () => {
   const scrollToTop = () => {
@@ -12,7 +13,7 @@ const Home = () => {
       <div className="home-page">
         <Hero />
 
-        <div className="container my-5">
+        <div className="container my-5 ">
           <div className="row mx-5">
             <div className="col-lg-6 d-flex justify-content-center d-none d-lg-flex">
               <img
@@ -49,6 +50,46 @@ const Home = () => {
                   More About Us
                 </Button>
               </Link>
+            </div>
+          </div>
+        </div>
+
+        <div className="status p-12  font-sans min-h-1/2 my-10">
+        <p className="data text-5xl font-bold 2xl:px-36 xl:px-36 lg:px-36 md:px-24">PRINCIPAL DATA</p>
+          <div className="xl:12 lg:px-20 md:px-24 grid grid-cols-1 sm:grid-cols-2 gap-4">
+            <div className="bigbox1 grid md:grid-cols-2 ">
+              <div className=" boxes text-4xl font-bold flex flex-col items-center justify-center ">
+                <div className="figures flex items-center text-red-500 ">
+                  <p className="num text-7xl text-red-500 py-4">165</p>
+                  <span className="plus block">+</span>
+                </div>
+                <p className=" des text-lg font-bold">Total Volunteers</p>
+              </div>
+
+              <div className=" boxes text-4xl font-bold flex flex-col items-center justify-center ">
+                <div className="figures flex items-center text-red-500 ">
+                  <p className="num text-7xl text-red-500 py-4">25</p>
+                  <span className="plus block">+</span>
+                </div>
+                <p className=" des text-lg font-bold">Total Events</p>
+              </div>
+            </div>
+
+            <div className="bigbox2 grid md:grid-cols-2">
+              <div className=" boxes text-4xl font-bold flex flex-col items-center justify-center md:">
+                <div className="figures flex items-center text-red-500 ">
+                  <p className="num text-7xl text-red-500 py-4">2</p>
+                  <span className="plus block">+</span>
+                </div>
+                <p className=" des text-lg font-bold">Donation Camps</p>
+              </div>
+              <div className=" boxes text-4xl font-bold flex flex-col items-center justify-center">
+                <div className="figures flex items-center text-red-500 ">
+                  <p className="num text-7xl text-red-500 py-4">5</p>
+                  <span className="plus block">+</span>
+                </div>
+                <p className=" des text-lg font-bold">Expert Talks</p>
+              </div>
             </div>
           </div>
         </div>
