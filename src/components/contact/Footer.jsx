@@ -68,7 +68,7 @@ const Contact = () => {
                 <h3 className="heading text-base">Important Links</h3>
                 <ul className="listing py-2">
                   <li onClick={Nss}>National Service Scheme</li>
-                  <li onClick={nits}>NIT SIlchar</li>
+                  <li onClick={nits}>NIT Silchar</li>
                   <li onClick={youth}>Youth and Sports</li>
                 </ul>
               </div>

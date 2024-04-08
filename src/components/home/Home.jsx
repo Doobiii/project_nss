@@ -54,16 +54,18 @@ const Home = () => {
           </div>
         </div>
 
-        <div className="status p-12  font-sans min-h-1/2 my-10">
-        <p className="data text-5xl font-bold 2xl:px-36 xl:px-36 lg:px-36 md:px-24">PRINCIPAL DATA</p>
+        <div className="status p-12  font-sans min-h-1/2 mx-20">
+          <p className="data text-5xl my-3 font-bold 2xl:px-36 xl:px-36 lg:px-36 md:px-24">
+            PRINCIPAL DATA
+          </p>
           <div className="xl:12 lg:px-20 md:px-24 grid grid-cols-1 sm:grid-cols-2 gap-4">
             <div className="bigbox1 grid md:grid-cols-2 ">
               <div className=" boxes text-4xl font-bold flex flex-col items-center justify-center ">
                 <div className="figures flex items-center text-red-500 ">
                   <p className="num text-7xl text-red-500 py-4">165</p>
-                  <span className="plus block">+</span>
+                  {/* <span className="plus block">+</span> */}
                 </div>
-                <p className=" des text-lg font-bold">Total Volunteers</p>
+                <p className=" des text-lg font-bold">Volunteers</p>
               </div>
 
               <div className=" boxes text-4xl font-bold flex flex-col items-center justify-center ">
@@ -71,7 +73,7 @@ const Home = () => {
                   <p className="num text-7xl text-red-500 py-4">25</p>
                   <span className="plus block">+</span>
                 </div>
-                <p className=" des text-lg font-bold">Total Events</p>
+                <p className="des text-lg font-bold">Total Events</p>
               </div>
             </div>
 
@@ -81,7 +83,7 @@ const Home = () => {
                   <p className="num text-7xl text-red-500 py-4">2</p>
                   <span className="plus block">+</span>
                 </div>
-                <p className=" des text-lg font-bold">Donation Camps</p>
+                <p className="des text-lg font-bold">Donation Camps</p>
               </div>
               <div className=" boxes text-4xl font-bold flex flex-col items-center justify-center">
                 <div className="figures flex items-center text-red-500 ">
