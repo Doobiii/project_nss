@@ -70,7 +70,7 @@ const Home = () => {
 
               <div className=" boxes text-4xl font-bold flex flex-col items-center justify-center ">
                 <div className="figures flex items-center text-red-500 ">
-                  <p className="num text-7xl text-red-500 py-4">25</p>
+                  <p className="num text-7xl text-red-500 py-4">20</p>
                   <span className="plus block">+</span>
                 </div>
                 <p className="des text-lg font-bold">Total Events</p>
@@ -80,15 +80,15 @@ const Home = () => {
             <div className="bigbox2 grid md:grid-cols-2">
               <div className=" boxes text-4xl font-bold flex flex-col items-center justify-center md:">
                 <div className="figures flex items-center text-red-500 ">
-                  <p className="num text-7xl text-red-500 py-4">2</p>
-                  <span className="plus block">+</span>
+                  <p className="num text-7xl text-red-500 py-4">4</p>
+                  {/* <span className="plus block">+</span> */}
                 </div>
                 <p className="des text-lg font-bold">Donation Camps</p>
               </div>
               <div className=" boxes text-4xl font-bold flex flex-col items-center justify-center">
                 <div className="figures flex items-center text-red-500 ">
-                  <p className="num text-7xl text-red-500 py-4">5</p>
-                  <span className="plus block">+</span>
+                  <p className="num text-7xl text-red-500 py-4">2</p>
+                  {/* <span className="plus block">+</span> */}
                 </div>
                 <p className=" des text-lg font-bold">Expert Talks</p>
               </div>
