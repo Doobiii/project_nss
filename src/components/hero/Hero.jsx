@@ -19,8 +19,10 @@ const Hero = () => {
             alt="first"
           />
           <Carousel.Caption>
-            <h2>NSS Inauguration</h2>
-            <p>Nulla vitae elit libero, a pharetra augue mollis interdum.</p>
+            <h2>Fit India</h2>
+            <p>
+              NSS NIT Silchar leads the way in fostering unity through action.
+            </p>
           </Carousel.Caption>
         </Carousel.Item>
         <Carousel.Item>
@@ -31,7 +33,10 @@ const Hero = () => {
           />
           <Carousel.Caption>
             <h2>Village Survey</h2>
-            <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit.</p>
+            <p>
+              NSS NIT Silchar's donation drive enriching young minds with the
+              gift of learning.
+            </p>
           </Carousel.Caption>
         </Carousel.Item>
         <Carousel.Item>
@@ -41,9 +46,10 @@ const Hero = () => {
             alt="second"
           />
           <Carousel.Caption>
-            <h2>Unity Run</h2>
+            <h2>Village Survey</h2>
             <p>
-              Praesent commodo cursus magna, vel scelerisque nisl consectetur.
+              NSS NIT Silchar's donation drive brightening up lives and
+              spreading hope.
             </p>
           </Carousel.Caption>
         </Carousel.Item>

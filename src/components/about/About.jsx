@@ -7,7 +7,7 @@ import {
   CardFooter,
   CardTitle,
 } from "react-bootstrap";
-import data from "../../db/team-focus.json";
+import data from "../../db/about-data.json";
 import Header from "../shared/Title-page/Header";
 function About() {
   return (
@@ -76,7 +76,7 @@ function About() {
                   <CardBody>
                     <div className="p-4 xyz">
                       <CardText>
-                        <strong> {item.info[0]}</strong>
+                        <strong> {item.info}</strong>
                       </CardText>
                     </div>
                   </CardBody>
