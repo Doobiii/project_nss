@@ -11,7 +11,7 @@
 }
 @media screen and (max-width: 992px) {
   .deta {
-    width: max-content;
+    width: 100%;
   }
   .row {
     gap: 1.4rem;
