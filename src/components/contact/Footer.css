@@ -153,6 +153,33 @@ input {
 }
 
 @media only screen and (max-width: 1540px) {
+  .footer{
+    font-size: 1.2rem; 
+  }
+  .left,
+  .middle {
+    padding: 3.5rem;
+  }
+  .top {
+    width: 75%;
+  }
+}
+
+@media only screen and (max-width: 2048px) {
+  .footer{
+    font-size: 1.5rem; 
+  }
+  .left,
+  .middle {
+    padding: 3.5rem;
+  }
+  .top {
+    width: 75%;
+  }
+}
+
+@media only screen and (max-width: 3840px) {
+  
   .left,
   .middle {
     padding: 3.5rem;
