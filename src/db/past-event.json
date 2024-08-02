@@ -1,75 +1,93 @@
 [
   {
     "id":1,
-    "title": "Health Awareness and Medical Camp",
-    "content": "Content for card 6",
-    "imgUrl": "https://res.cloudinary.com/dizapcy3k/image/upload/v1712606543/20240407_102032_ijlnbb.jpg"
+    "title": "NSS Inaguration",
+    "content": "Content for card 0",
+    "imgUrl": "https://res.cloudinary.com/dvm4ovv0x/image/upload/f_auto,q_auto/v1/NSS_EVENTS/m8ebceopqwoajlmzb9ok"
   },
   {
     "id":2,
-    "title": "Waste Disposal of NITS",
-    "content": "Content for card 6",
-    "imgUrl": "https://res.cloudinary.com/dizapcy3k/image/upload/v1712607138/20240406_81928AMByGPSMapCamera_ixjhx7.webp"
+    "title": "Selection Process",
+    "content": "Content for Card 1",
+    "imgUrl": "https://res.cloudinary.com/dvm4ovv0x/image/upload/f_auto,q_auto/v1/NSS_EVENTS/npb9t8yn5w45fgxsr4pz"
   },
-  {
+  { 
     "id":3,
-    "title": "Mera pehla vote desh ke liye",
-    "content": "Content for card 6",
-    "imgUrl": "https://res.cloudinary.com/dizapcy3k/image/upload/v1712606267/WhatsApp_Image_2024-03-05_at_22.08.15_i1wnww.jpg"
+    "title": "Village Survey",
+    "content": "Content for Card 2",
+    "imgUrl": "https://res.cloudinary.com/dvm4ovv0x/image/upload/f_auto,q_auto/v1/NSS_EVENTS/betqxmesgseg8dadqnft"
+
   },
-  {
-    "id":4,
-    "title": "Biodiversity of NITS",
-    "content": "Content for card 6",
-    "imgUrl": "https://res.cloudinary.com/dvm4ovv0x/image/upload/f_auto,q_auto/v1/NSS_EVENTS/ve5qntpjeyzff6mstq9k"
+  { 
+     "id":4,
+     "title": "Diwali Donation Drive",
+     "content": "Content for Card 3",
+     "imgUrl": "https://res.cloudinary.com/dvm4ovv0x/image/upload/f_auto,q_auto/v1/NSS_EVENTS/ezv7bvvluqox2arwl0ky"
   },
-  {
+  { 
     "id":5,
-    "title": "Classroom Cleaning Event",
-    "content": "Content for card 7",
-    "imgUrl": "https://res.cloudinary.com/dvm4ovv0x/image/upload/f_auto,q_auto/v1/NSS_EVENTS/enowdoewrzfp2mqnznou"
+    "title": "Republic Day Parade",
+    "content": "Content for Card 4" ,
+    "imgUrl": "https://res.cloudinary.com/dvm4ovv0x/image/upload/f_auto,q_auto/v1/NSS_EVENTS/d7qjjcjxzuvirdq1z9m8"
   },
   { 
     "id":6,
-    "title": "Republic Day 2024",
-    "content": "Content for Card 4" ,
-    "imgUrl": "https://res.cloudinary.com/dfew9we6n/image/upload/v1711891234/Parade/parade_4.webp"
-  },
-  { 
-    "id":7,
-    "title": "Fit India",
-    "content": "Content for Card 4" ,
-    "imgUrl": "https://res.cloudinary.com/dizapcy3k/image/upload/v1712607017/IMG_5851_cn4tms.webp"
-  },
-  { 
-    "id":8,
-    "title": "Diwali Donation Drive",
-    "content": "Content for Card 3",
-    "imgUrl": "https://res.cloudinary.com/dkntkq8iv/image/upload/v1711890781/Diwali%20donation%20Drive/diwaliDonation1.webp"
-  },
-    { 
-    "id":9,
-    "title": "Village Survey",
-    "content": "Content for Card 2",
-    "imgUrl": "https://res.cloudinary.com/dizapcy3k/image/upload/v1711917454/survey_4_shdz1z.webp"
-    
-  },
-  { 
-    "id":10,
-    "title": "Khadi Mahotsav",
+    "title": "Khadi Mahotsava",
     "content": "Content for Card 5",
     "imgUrl": "https://res.cloudinary.com/dvm4ovv0x/image/upload/f_auto,q_auto/v1/NSS_EVENTS/ymkdzefqznlecxmu8s6z"
   },
   {
-    "id":11,
-    "title": "Independence Day 2023",
+    "id":7,
+    "title": "Cleaning Event",
+    "content": "Content for card 7",
+    "imgUrl": "https://res.cloudinary.com/dvm4ovv0x/image/upload/f_auto,q_auto/v1/NSS_EVENTS/enowdoewrzfp2mqnznou"
+  },
+  {
+    "id":8,
+    "title": "Biodiversity Speaker Session",
     "content": "Content for card 6",
-    "imgUrl": "https://res.cloudinary.com/dizapcy3k/image/upload/v1712605632/WhatsApp_Image_2024-04-09_at_01.06.26_rqpsm6.webp"
+    "imgUrl": "https://res.cloudinary.com/dvm4ovv0x/image/upload/f_auto,q_auto/v1/NSS_EVENTS/ve5qntpjeyzff6mstq9k"
+  },
+  {
+    "id":9,
+    "title": "Mera Pehla Vote Desh ke Liye",
+    "content": "Content for card 9",
+    "imgUrl": "https://res.cloudinary.com/dzq6ynqdw/image/upload/f_auto,q_auto/v1/nikhil/NSS_Events/ypxfswsjs166npoqpzbk"
+  },
+  {
+    "id":10,
+    "title": "Waste Disposal in NIT",
+    "content": "Content for card 10",
+    "imgUrl": "https://res.cloudinary.com/dzq6ynqdw/image/upload/f_auto,q_auto/v1/nikhil/NSS_Events/zcv5g1qar6ejza2v5qyu"
+  },
+  {
+    "id":11,
+    "title": "Health Awareness Camp",
+    "content": "Content for card 11",
+    "imgUrl": "https://res.cloudinary.com/dzq6ynqdw/image/upload/f_auto,q_auto/v1/nikhil/NSS_Events/jyxi6uxr8m52wilcgole"
   },
   {
     "id":12,
-    "title": "Selection Process",
-    "content": "Content for Card 1",
-    "imgUrl": "https://res.cloudinary.com/dvm4ovv0x/image/upload/f_auto,q_auto/v1/NSS_EVENTS/npb9t8yn5w45fgxsr4pz"
+    "title": "Donation Drive in Schools",
+    "content":"Content for card 12",
+    "imgUrl": "https://res.cloudinary.com/dzq6ynqdw/image/upload/f_auto,q_auto/v1/nikhil/NSS_Events/ojcugjramj8v60tgq4ct"
+  },
+  {
+    "id":13,
+    "title": "Pragati Parv",
+    "content": "Content for card 13",
+    "imgUrl": "https://res.cloudinary.com/dzq6ynqdw/image/upload/f_auto,q_auto/v1/nikhil/NSS_Events/dfvg53flhrvri4nzgshb"
+  },
+  {
+    "id":14,
+    "title": "Blood Donation Camp",
+    "content": "Content for card 14",
+    "imgUrl": "https://res.cloudinary.com/dzq6ynqdw/image/upload/f_auto,q_auto/v1/nikhil/NSS_Events/dclz5uocacdir3jjzcgb"
+  },
+  {
+    "id":15,
+    "title": "Farewell of Batch 24",
+    "content": "Content for card 15",
+    "imgUrl": "https://res.cloudinary.com/dzq6ynqdw/image/upload/f_auto,q_auto/v1/nikhil/NSS_Events/dlnxkd9kg2ie0k08wfi4"
   }
 ]
