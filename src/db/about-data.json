@@ -1,21 +1,19 @@
 [
-    {
-      "id": "1",
-      "name": "Dr. Shankar. K",
-      "designation": "Program Officer",
-      "imageUrl": "/images/Dr. Shankar. K.jpg",
-      "facebook": "",
-      "instagram": "",
-      "linkedin": "",
-      "info": "Read good! Think good! Act good!"
-
-    },
-    {
-      "id": "2",
-      "name": "Pranto Das",
-      "designation": "President",
-      "imageUrl": "/images/Pranto.jpg",
-      "info":"The beauty of selfless community service lies not only in the impact it has on others but also in the profound transformation it brings to our own personalities."
-    }
-  ]
-  
+  {
+    "id": "1",
+    "name": "Dr. Shankar. K",
+    "designation": "Program Officer",
+    "imageUrl": "/images/Dr. Shankar. K.jpg",
+    "facebook": "",
+    "instagram": "",
+    "linkedin": "",
+    "info": "Read good! Think good! Act good!"
+  },
+  {
+    "id": "2",
+    "name": "Abhijit Das",
+    "designation": "President",
+    "imageUrl": "/images/Abhijit.jpg",
+    "info": "The real reward of serving others is not just in the difference we make, but in how it changes and enriches us as individuals."
+  }
+]

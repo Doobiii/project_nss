@@ -42,7 +42,7 @@
   .contact-us,
   .imp-link,
   .follow-link {
-    font-size: 0.85em;
+    font-size: 0.6em;
     font-weight: 400;
 
     cursor: context-menu;
@@ -75,6 +75,10 @@
 
 input {
   background-color: rgb(227, 227, 227);
+}
+.submit{
+  
+  font-size: 1rem;
 }
 
 @media only screen and (max-width: 480px) {

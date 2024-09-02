@@ -113,7 +113,7 @@ const Contact = () => {
               />
             </div>
             <div className="flex  w-3/4">
-              <button className="submit  p-2 rounded-md my-3 text-black sm:mx-auto border-black-950 border-blue-600 cursor-pointer bg-blue-400 hover:bg-blue-600">
+            <button className="submit  p-1 rounded-md my-2 text-black sm:mx-auto border-black-950 border-blue-600 cursor-pointer bg-blue-400 hover:bg-blue-600">
                 Submit
               </button>
             </div>
