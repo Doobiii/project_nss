@@ -4,6 +4,7 @@ import Card from "../card/Card";
 import Heading from "../shared/Heading/Heading";
 import past_events from "../../db/past-event";
 import Header from "../shared/Title-page/Header";
+import Filter from "../Filter/Filter";
 const Event = () => {
   return (
     <div className="event-page">
@@ -58,13 +59,19 @@ const Event = () => {
               ))}
             </div>
           </div> */}
+
+       
+        
+
+
           <div className="past-events">
             <Heading title="Past Events" />
-            <div className="row gap-0 flex align-items-center justify-content-center">
+            <Filter/>
+            {/* <div className="row gap-0 flex align-items-center justify-content-center">
               {past_events.map((card, index) => (
                 <div
                   key={index}
-                  className="col-lg-6 col-xl-4 col-sm-12 col-md-6 d-flex align-items-center justify-content-center"
+                  className={`col-lg-6 col-xl-4 col-sm-12 col-md-6 d-flex align-items-center justify-content-center ${card.event_type} ${card.year}`}
                 >
                   <Card
                     title={card.title}
@@ -72,11 +79,13 @@ const Event = () => {
                   />
                 </div>
               ))}
-            </div>
+            </div> */}
           </div>
         </div>
       </div>
     </div>
+
+    
   );
 };
 

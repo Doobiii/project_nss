@@ -1,6 +1,15 @@
 [
   {
-    "id":1,
+  "id": 0,
+  "name": "Pranto Das",
+  "designation": "Volunteer",
+  "image": "/images/Pranto.jpg",
+  "facebook_profile_link": "https://www.facebook.com/pranto.das.01",
+  "instagram_profile_link": "",
+  "linkedIn_profile_link": "https://www.linkedin.com/in/pranto-das-6a8a27191/"
+},
+  {
+    "id": 1,
     "name": "Kella Sri Rama Karthik",
     "designation": "Volunteer",
     "facebook_profile_link": "https://www.facebook.com/karthik.srirama.92?mibextid=ZbWKwL",
