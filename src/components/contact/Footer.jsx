@@ -76,7 +76,7 @@ const Contact = () => {
           </div>
 
           <div className="right sm:w-1/3">
-            <div className="text-xl mb-5"> Contact Us Dirtectly </div>
+            <div className="text-xl mb-5"> Contact Us Directly </div>
             {/* <div className="bar w-12 bg-slate-600 mx-12 sm:h-2  rounded-md mb-8"></div> */}
             <div className="flex-col my-2 flex ">
               <h1 className="text-xs">Your Name*</h1>
