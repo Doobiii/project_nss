@@ -109,6 +109,19 @@ const Navbar = () => {
               Team
             </Link>
           </li>
+          <li className="nav-item">
+            <Link
+              to="/Alumni"
+              className="nav-link"
+              onClick={() => {
+                scrollToTop();
+                closeMenu();
+              }} // Close the menu after clicking on the link
+              style={{ color: "white" }}
+            >
+              Alumni
+            </Link>
+          </li>
         </ul>
         <div className="btnn btn" onClick={handleClick}>
           {click ? (

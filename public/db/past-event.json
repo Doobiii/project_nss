@@ -1,0 +1,122 @@
+[
+  {
+    "id": 1,
+    "title": "NSS Inauguration",
+    "content": "Content for card 0",
+    "imgUrl": "https://res.cloudinary.com/dvm4ovv0x/image/upload/f_auto,q_auto/v1/NSS_EVENTS/m8ebceopqwoajlmzb9ok",
+    "year": 2023,
+    "event_type": "Specials"
+  },
+  {
+    "id": 2,
+    "title": "Selection Process",
+    "content": "Content for Card 1",
+    "imgUrl": "https://res.cloudinary.com/dvm4ovv0x/image/upload/f_auto,q_auto/v1/NSS_EVENTS/npb9t8yn5w45fgxsr4pz",
+    "year": 2023,
+    "event_type": "Selection Process"
+  },
+  { 
+    "id": 3,
+    "title": "Village Survey",
+    "content": "Content for Card 2",
+    "imgUrl": "https://res.cloudinary.com/dvm4ovv0x/image/upload/f_auto,q_auto/v1/NSS_EVENTS/betqxmesgseg8dadqnft",
+    "year": 2023,
+    "event_type": "Survey"
+  },
+  { 
+    "id": 4,
+    "title": "Diwali Donation Drive",
+    "content": "Content for Card 3",
+    "imgUrl": "https://res.cloudinary.com/dvm4ovv0x/image/upload/f_auto,q_auto/v1/NSS_EVENTS/ezv7bvvluqox2arwl0ky",
+    "year": 2023,
+    "event_type": "Donation drive"
+  },
+  { 
+    "id": 5,
+    "title": "Republic Day Parade",
+    "content": "Content for Card 4",
+    "imgUrl": "https://res.cloudinary.com/dvm4ovv0x/image/upload/f_auto,q_auto/v1/NSS_EVENTS/d7qjjcjxzuvirdq1z9m8",
+    "year": 2024,
+    "event_type": "Specials"
+  },
+  { 
+    "id": 6,
+    "title": "Khadi Mahotsava",
+    "content": "Content for Card 5",
+    "imgUrl": "https://res.cloudinary.com/dvm4ovv0x/image/upload/f_auto,q_auto/v1/NSS_EVENTS/ymkdzefqznlecxmu8s6z",
+    "year": 2023,
+    "event_type": "Donation drive"
+  },
+  {
+    "id": 7,
+    "title": "Cleaning Event",
+    "content": "Content for card 7",
+    "imgUrl": "https://res.cloudinary.com/dvm4ovv0x/image/upload/f_auto,q_auto/v1/NSS_EVENTS/enowdoewrzfp2mqnznou",
+    "year": 2024,
+    "event_type": "Cleanliness Drive"
+  },
+  {
+    "id": 8,
+    "title": "Biodiversity Speaker Session",
+    "content": "Content for card 6",
+    "imgUrl": "https://res.cloudinary.com/dvm4ovv0x/image/upload/f_auto,q_auto/v1/NSS_EVENTS/ve5qntpjeyzff6mstq9k",
+    "year": 2024,
+    "event_type": "Awareness"
+  },
+  {
+    "id": 9,
+    "title": "Mera Pehla Vote Desh ke Liye",
+    "content": "Content for card 9",
+    "imgUrl": "https://res.cloudinary.com/dzq6ynqdw/image/upload/f_auto,q_auto/v1/nikhil/NSS_Events/ypxfswsjs166npoqpzbk",
+    "year": 2024,
+    "event_type": "Awareness"
+  },
+  {
+    "id": 10,
+    "title": "Waste Disposal in NIT",
+    "content": "Content for card 10",
+    "imgUrl": "https://res.cloudinary.com/dzq6ynqdw/image/upload/f_auto,q_auto/v1/nikhil/NSS_Events/zcv5g1qar6ejza2v5qyu",
+    "year": 2024,
+    "event_type": "Survey"
+  },
+  {
+    "id": 11,
+    "title": "Health Awareness Camp",
+    "content": "Content for card 11",
+    "imgUrl": "https://res.cloudinary.com/dzq6ynqdw/image/upload/f_auto,q_auto/v1/nikhil/NSS_Events/jyxi6uxr8m52wilcgole",
+    "year": 2024,
+    "event_type": "Awareness"
+  },
+  {
+    "id": 12,
+    "title": "Donation Drive in Schools",
+    "content": "Content for card 12",
+    "imgUrl": "https://res.cloudinary.com/dzq6ynqdw/image/upload/f_auto,q_auto/v1/nikhil/NSS_Events/ojcugjramj8v60tgq4ct",
+    "year": 2024,
+    "event_type": "Donation drive"
+  },
+  {
+    "id": 13,
+    "title": "Pragati Parv",
+    "content": "Content for card 13",
+    "imgUrl": "https://res.cloudinary.com/dzq6ynqdw/image/upload/f_auto,q_auto/v1/nikhil/NSS_Events/dfvg53flhrvri4nzgshb",
+    "year": 2024,
+    "event_type": "Specials"
+  },
+  {
+    "id": 14,
+    "title": "Blood Donation Camp",
+    "content": "Content for card 14",
+    "imgUrl": "https://res.cloudinary.com/dzq6ynqdw/image/upload/f_auto,q_auto/v1/nikhil/NSS_Events/dclz5uocacdir3jjzcgb",
+    "year": 2024,
+    "event_type": "Blood Donation"
+  },
+  {
+    "id": 15,
+    "title": "Farewell of Batch 24",
+    "content": "Content for card 15",
+    "imgUrl": "https://res.cloudinary.com/dzq6ynqdw/image/upload/f_auto,q_auto/v1/nikhil/NSS_Events/dlnxkd9kg2ie0k08wfi4",
+    "year": 2024,
+    "event_type": "Specials"
+  }
+]

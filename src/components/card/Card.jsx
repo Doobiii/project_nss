@@ -1,7 +1,7 @@
 import React from "react";
 import "./Card.css";
 import Cardimg from "../images/img1.jpg";
-const Card = ({ title, content, imgUrl }) => {
+const Card = ({ title, content, imgUrl, year , event_type }) => {
   return (
     <div className="containerrr">
       <article className="card__article">
