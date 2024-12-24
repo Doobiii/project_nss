@@ -118,5 +118,118 @@
     "imgUrl": "https://res.cloudinary.com/dzq6ynqdw/image/upload/f_auto,q_auto/v1/nikhil/NSS_Events/dlnxkd9kg2ie0k08wfi4",
     "year": 2024,
     "event_type": "Specials"
+  },
+  {
+    "id": 16,
+    "title": "Help Desk for Batch 24",
+    "content": "Content for card 16",
+    "imgUrl": "https://res.cloudinary.com/dmsr8ttrz/image/upload/v1734946851/l0im96wntj1hwim0d1v7.webp",
+    "year": 2024,
+    "event_type": "Help desk"
+  },
+{
+    "id": 17,
+    "title": "Har Ghar Tiranga Rally",
+    "content": "Content for card 17",
+    "imgUrl": "https://res.cloudinary.com/dmsr8ttrz/image/upload/v1734947123/NSS/ly0jh4i729wyq4ccmpvv.webp",
+    "year": 2024,
+    "event_type": "Awareness"
+  },
+{
+    "id": 18,
+    "title": "Independence Day",
+    "content": "Content for card 18",
+    "imgUrl": "https://res.cloudinary.com/dmsr8ttrz/image/upload/v1734947149/NSS/riztoz7z2vfo6pzthezq.webp",
+    "year": 2024,
+    "event_type": "Specials"
+  },
+{
+    "id": 19,
+    "title": "Selection Process(24 Batch)",
+    "content": "Content for card 19",
+    "imgUrl": "https://res.cloudinary.com/dmsr8ttrz/image/upload/v1734947292/NSS/oax3amq1jrfzrftj8bte.webp",
+    "year": 2024,
+    "event_type": "Selection Process"
+  },
+{
+    "id": 20,
+    "title": "Swatchhata pakhwada",
+    "content": "Content for card 20",
+    "imgUrl": "https://res.cloudinary.com/dmsr8ttrz/image/upload/v1734947340/NSS/erlqwzbccz4l64aniuw6.webp",
+    "year": 2024,
+    "event_type": "Awareness"
+  },
+{
+    "id": 21,
+    "title": "Teachers Day",
+    "content": "Content for card 21",
+    "imgUrl": "https://res.cloudinary.com/dmsr8ttrz/image/upload/v1734949805/NSS/iyturuinzfa2n8lcbe4e.webp",
+    "year": 2024,
+    "event_type": "Specials"
+  },
+{
+    "id": 22,
+    "title": "Plantation Drive",
+    "content": "Content for card 22",
+    "imgUrl": "https://res.cloudinary.com/dmsr8ttrz/image/upload/v1734948605/NSS/suiuzkqmgph0zrmxuhz3.webp",
+    "year": 2024,
+    "event_type": "plantation"
+  },
+
+{
+    "id": 23,
+    "title": "Session on hygiene",
+    "content": "Content for card 23",
+    "imgUrl": "https://res.cloudinary.com/dmsr8ttrz/image/upload/v1734947536/NSS/cyx4ipxxsawaehzhflsm.webp",
+    "year": 2024,
+    "event_type": "Awareness"
+  },
+{
+    "id": 24,
+    "title": "NSS Day Speaker Session",
+    "content": "Content for card 24",
+    "imgUrl": "https://res.cloudinary.com/dmsr8ttrz/image/upload/v1734948610/NSS/vmdy62xbj7cp5xook9iw.webp",
+    "year": 2024,
+    "event_type": "Awareness"
+  },
+{
+    "id": 25,
+    "title": "Selection Process",
+    "content": "Content for card 25",
+    "imgUrl": "https://res.cloudinary.com/dmsr8ttrz/image/upload/v1734948788/NSS/zvoe0wl86eulziwadyzy.webp",
+    "year": 2024,
+    "event_type": "Selection Process"
+  },
+{
+    "id": 26,
+    "title": "Village Survey",
+    "content": "Content for card 26",
+    "imgUrl": "https://res.cloudinary.com/dmsr8ttrz/image/upload/v1734948839/NSS/wdrzegjjvjad2pnzkmso.webp",
+    "year": 2024,
+    "event_type": "Survey"
+  },
+{
+    "id": 27,
+    "title": "Special Campaign 4.0",
+    "content": "Content for card 27",
+    "imgUrl": "https://res.cloudinary.com/dmsr8ttrz/image/upload/v1734948925/NSS/sovgsskllazfxwllvpbq.webp",
+    "year": 2024,
+    "event_type": "Waste Mannagement"
+  },
+{
+    "id": 28,
+    "title": "Diwali Donation Drive",
+    "content": "Content for card 28",
+    "imgUrl": "https://res.cloudinary.com/dmsr8ttrz/image/upload/v1734949284/NSS/epphcng5sposxquk7ahr.webp",
+    "year": 2024,
+    "event_type": "Donation drive"
+  },
+{
+    "id": 29,
+    "title": "LP School Donation Drive",
+    "content": "Content for card 29",
+    "imgUrl": "https://res.cloudinary.com/dmsr8ttrz/image/upload/v1734949510/NSS/kfmwmso2li7ujr1x5h7g.webp",
+    "year": 2024,
+    "event_type": "Donation drive"
   }
 ]
