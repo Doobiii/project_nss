@@ -1,92 +1,91 @@
-[
-  {
-  "id": 0,
-  "name": "Pranto Das",
-  "designation": "Volunteer",
-  "image": "/images/Pranto.jpg",
-  "facebook_profile_link": "https://www.facebook.com/pranto.das.01",
-  "instagram_profile_link": "",
-  "linkedIn_profile_link": "https://www.linkedin.com/in/pranto-das-6a8a27191/"
-},
-  {
-    "id": 1,
-    "name": "Kella Sri Rama Karthik",
-    "designation": "Volunteer",
-    "facebook_profile_link": "https://www.facebook.com/karthik.srirama.92?mibextid=ZbWKwL",
-    "instagram_profile_link": "https://www.instagram.com/karthik_11.24?igsh=MXZmbzYxbGFva2lyZw==",
-    "linkedIn_profile_link": "https://www.linkedin.com/in/sri-rama-karthik?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app",
-    "image":"https://res.cloudinary.com/dfew9we6n/image/upload/v1724242616/Nss/Rama%20Karthik.webp"
-  },
-  {
-    "id":2,
-    "name": "Shubham Kumar Singh",
-    "designation": "Volunteer",
-    "facebook_profile_link": "https://www.facebook.com/shubham.kumarsingh.7359",
-    "instagram_profile_link": "NA",
-    "linkedIn_profile_link": "https://www.linkedin.com/in/shubham-kumar-singh-274383200?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app",
-    "image":"https://res.cloudinary.com/dfew9we6n/image/upload/v1724242617/Nss/Shubham%20Kumar%20Singh.webp"
-  },
-  {
-    "id":3,
-    "name": "Meera R ",
-    "designation": "Volunteer",
-    "facebook_profile_link": "https://www.facebook.com/meera.radhakrishnan.140?mibextid=ZbWKwL",
-    "instagram_profile_link": "https://www.instagram.com/meera_radhakrishnan__?igsh=dGR6c215ZGhqMDgx",
-    "linkedIn_profile_link": "https://www.linkedin.com/in/meera-radhakrishnan-a26169222",
-    "image":"https://res.cloudinary.com/dfew9we6n/image/upload/v1724242615/Nss/Meera%20R.webp"
-  },
-  {
-    "id":4,
-    "name": "Neha",
-    "designation": "Volunteer",
-    "facebook_profile_link": "https://www.facebook.com/profile.php?id=100061047820071",
-    "instagram_profile_link": "https://www.instagram.com/neharani3440?igsh=MXFzczAwdXJxZGVobA==",
-    "linkedIn_profile_link": "https://www.linkedin.com/in/neha-rani-7b5471209?trk=contact-info",
-    "image":"https://res.cloudinary.com/dfew9we6n/image/upload/v1724242616/Nss/Neha.webp"
-  },
-  {
-    "id":5,
-    "name": "Mahitha Dasari",
-    "designation": "Volunteer",
-    "facebook_profile_link": "https://www.facebook.com/mahitha.316?mibextid=JRoKGi",
-    "instagram_profile_link": "https://www.instagram.com/mahitha_dasari_?igsh=Zm15eWdkdndnOHU2",
-    "linkedIn_profile_link": "https://www.linkedin.com/in/mahitha-dasari-9b9448246",
-    "image":"https://res.cloudinary.com/dfew9we6n/image/upload/v1724242616/Nss/Mahitha%20Dasari.webp"
-  },
-  {
-    "id":6,
-    "name": "Sourjya Mukherjee",
-    "designation": "Volunteer",
-    "facebook_profile_link": "https://www.facebook.com/sourjya.mukherjee.73?mibextid=ZbWKwL",
-    "instagram_profile_link": "https://www.instagram.com/msourjya?igsh=MXc0dHc1NXZnNDFrNA==",
-    "linkedIn_profile_link": "https://www.linkedin.com/in/sourjya261?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app",
-    "image":"https://res.cloudinary.com/dfew9we6n/image/upload/v1724242616/Nss/Sourjya%20Mukherjee.webp"
-  },
-  {
-    "id":7,
-    "name": "Pothuganti Navya",
-    "designation": "Volunteer",
-    "facebook_profile_link": "https://www.facebook.com/navya.pothuganti.7?mibextid=ZbWKwL",
-    "instagram_profile_link": "NA",
-    "linkedIn_profile_link": "https://www.linkedin.com/in/pothuganti-navya-639215221/",
-    "image":"https://res.cloudinary.com/dfew9we6n/image/upload/v1724350344/Nss/navya.webp"
-  },
-  {
-    "id":8,
-    "name": "Dhirazit Hazarika",
-    "designation": "Volunteer",
-    "facebook_profile_link": "https://www.facebook.com/dhirazit.hazarika?mibextid=ZbWKwL",
-    "instagram_profile_link": "NA",
-    "linkedIn_profile_link": "NA",
-    "image":"https://res.cloudinary.com/dfew9we6n/image/upload/v1724350047/Nss/dhirazitHazarika.webp"
-  },
-  {
-    "id":9,
-    "name": "Ritesh Kumar",
-    "designation": "Volunteer",
-    "facebook_profile_link": "https://www.facebook.com/profile.php?id=100006925869901",
-    "instagram_profile_link": "https://www.instagram.com/ritzzz_545/",
-    "linkedIn_profile_link": "https://www.linkedin.com/in/ritesh-kumar-435b08216/",
-    "image":"https://res.cloudinary.com/dfew9we6n/image/upload/v1724242618/Nss/Ritesh%20Kumar.webp"
-  }
+[{
+        "id": 0,
+        "name": "Pranto Das",
+        "designation": "Volunteer",
+        "image": "/images/Pranto.jpg",
+        "facebook_profile_link": "https://www.facebook.com/pranto.das.01",
+        "instagram_profile_link": "",
+        "linkedIn_profile_link": "https://www.linkedin.com/in/pranto-das-6a8a27191/"
+    },
+    {
+        "id": 1,
+        "name": "Kella Sri Rama Karthik",
+        "designation": "Volunteer",
+        "facebook_profile_link": "https://www.facebook.com/karthik.srirama.92?mibextid=ZbWKwL",
+        "instagram_profile_link": "https://www.instagram.com/karthik_11.24?igsh=MXZmbzYxbGFva2lyZw==",
+        "linkedIn_profile_link": "https://www.linkedin.com/in/sri-rama-karthik?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app",
+        "image": "https://res.cloudinary.com/dfew9we6n/image/upload/v1724242616/Nss/Rama%20Karthik.webp"
+    },
+    {
+        "id": 2,
+        "name": "Shubham Kumar Singh",
+        "designation": "Volunteer",
+        "facebook_profile_link": "https://www.facebook.com/shubham.kumarsingh.7359",
+        "instagram_profile_link": "NA",
+        "linkedIn_profile_link": "https://www.linkedin.com/in/shubham-kumar-singh-274383200?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app",
+        "image": "https://res.cloudinary.com/dfew9we6n/image/upload/v1724242617/Nss/Shubham%20Kumar%20Singh.webp"
+    },
+    {
+        "id": 3,
+        "name": "Meera R ",
+        "designation": "Volunteer",
+        "facebook_profile_link": "https://www.facebook.com/meera.radhakrishnan.140?mibextid=ZbWKwL",
+        "instagram_profile_link": "https://www.instagram.com/meera_radhakrishnan__?igsh=dGR6c215ZGhqMDgx",
+        "linkedIn_profile_link": "https://www.linkedin.com/in/meera-radhakrishnan-a26169222",
+        "image": "https://res.cloudinary.com/dfew9we6n/image/upload/v1724242615/Nss/Meera%20R.webp"
+    },
+    {
+        "id": 4,
+        "name": "Neha",
+        "designation": "Volunteer",
+        "facebook_profile_link": "https://www.facebook.com/profile.php?id=100061047820071",
+        "instagram_profile_link": "https://www.instagram.com/neharani3440?igsh=MXFzczAwdXJxZGVobA==",
+        "linkedIn_profile_link": "https://www.linkedin.com/in/neha-rani-7b5471209?trk=contact-info",
+        "image": "https://res.cloudinary.com/dfew9we6n/image/upload/v1724242616/Nss/Neha.webp"
+    },
+    {
+        "id": 5,
+        "name": "Mahitha Dasari",
+        "designation": "Volunteer",
+        "facebook_profile_link": "https://www.facebook.com/mahitha.316?mibextid=JRoKGi",
+        "instagram_profile_link": "https://www.instagram.com/mahitha_dasari_?igsh=Zm15eWdkdndnOHU2",
+        "linkedIn_profile_link": "https://www.linkedin.com/in/mahitha-dasari-9b9448246",
+        "image": "https://res.cloudinary.com/dfew9we6n/image/upload/v1724242616/Nss/Mahitha%20Dasari.webp"
+    },
+    {
+        "id": 6,
+        "name": "Sourjya Mukherjee",
+        "designation": "Volunteer",
+        "facebook_profile_link": "https://www.facebook.com/sourjya.mukherjee.73?mibextid=ZbWKwL",
+        "instagram_profile_link": "https://www.instagram.com/msourjya?igsh=MXc0dHc1NXZnNDFrNA==",
+        "linkedIn_profile_link": "https://www.linkedin.com/in/sourjya261?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app",
+        "image": "https://res.cloudinary.com/dfew9we6n/image/upload/v1724242616/Nss/Sourjya%20Mukherjee.webp"
+    },
+    {
+        "id": 7,
+        "name": "Pothuganti Navya",
+        "designation": "Volunteer",
+        "facebook_profile_link": "https://www.facebook.com/navya.pothuganti.7?mibextid=ZbWKwL",
+        "instagram_profile_link": "NA",
+        "linkedIn_profile_link": "https://www.linkedin.com/in/pothuganti-navya-639215221/",
+        "image": "https://res.cloudinary.com/dfew9we6n/image/upload/v1724350344/Nss/navya.webp"
+    },
+    {
+        "id": 8,
+        "name": "Dhirazit Hazarika",
+        "designation": "Volunteer",
+        "facebook_profile_link": "https://www.facebook.com/dhirazit.hazarika?mibextid=ZbWKwL",
+        "instagram_profile_link": "NA",
+        "linkedIn_profile_link": "NA",
+        "image": "https://res.cloudinary.com/dfew9we6n/image/upload/v1724350047/Nss/dhirazitHazarika.webp"
+    },
+    {
+        "id": 9,
+        "name": "Ritesh Kumar",
+        "designation": "Volunteer",
+        "facebook_profile_link": "https://www.facebook.com/profile.php?id=100006925869901",
+        "instagram_profile_link": "https://www.instagram.com/ritzzz_545/",
+        "linkedIn_profile_link": "https://www.linkedin.com/in/ritesh-kumar-435b08216/",
+        "image": "https://res.cloudinary.com/dfew9we6n/image/upload/v1724242618/Nss/Ritesh%20Kumar.webp"
+    }
 ]

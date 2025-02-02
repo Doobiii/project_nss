@@ -19,6 +19,9 @@ const Filter = () => {
     "Cleanliness",
     "Selection Process",
     "Specials",
+    "Help Desk",
+    "Waste Disposals",
+    "Parade",
   ];
 
   const yearOptions = ["2023", "2024"];
@@ -50,7 +53,7 @@ const Filter = () => {
 
   const FilterOptions = ({ options, onSelect, selected }) => {
     return (
-      <div className="py-1">
+      <div className="py-1 ">
         
         {options.map((option, index) => (
           <button
@@ -93,7 +96,7 @@ const Filter = () => {
         </button>
 
         {showEventDropdown && (
-          <div className="absolute right-0 z-10 mt-2 w-56 origin-top-right rounded-md bg-white shadow-lg ring-1 ring-black ring-opacity-5">
+          <div className="absolute z-10 mt-2 w-56 origin-top-right rounded-md bg-white shadow-lg ring-1 ring-black ring-opacity-5">
             <FilterOptions
               options={eventOptions}
               onSelect={(event) => {
