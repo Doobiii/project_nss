@@ -1,147 +1,145 @@
-[
-  {
-      "id": 1,
-      "name": "Prashant Kumar",
-      "designation": "Vice President",
-      "imageUrl": " https://res.cloudinary.com/dhznqjuzq/image/upload/v1734592290/zwkxgxqiqrxmaqk16zse.webp",
-      "facebook": "https://www.facebook.com/share/1ByiusvFby/",
-      "linkedin": "#",
-      "instagram": "https://www.instagram.com/_whois_prashant/profilecard/?igsh=MTJ5ZnVwZ2xzOHE3bQ=="
-  },
-  {
-      "id": 2,
-      "name": "M Ashutosh",
-      "designation": "General Secretary",
-      "imageUrl": "https://res.cloudinary.com/dhznqjuzq/image/upload/v1734593467/z32jgouygybwflubc7b4.webp",
-      "facebook": "https://www.facebook.com/share/n5aAU4Ru2H3uvGtw/",
-      "linkedin": "#",
-      "instagram": "#"
-  },
-  {
-      "id": 3,
-      "name": "Aditya Raj Boum",
-      "designation": "General Secretary",
-      "imageUrl": "https://res.cloudinary.com/df93reijv/image/upload/v1734594588/xxvxnv3hplxg00mktizm.webp",
-      "facebook": "https://www.facebook.com/profile.php?id=100087769609141&mibextid=ZbWKwL",
-      "linkedin": "#",
-      "instagram": "https://www.instagram.com/aditya_rajboum/profilecard/?igsh=NmFsa2dveTRuaDJ0"
-  },
-  {
-      "id": 4,
-      "name": "Chinmoy Das",
-      "designation": "Treasurer",
-      "imageUrl": " https://res.cloudinary.com/dhznqjuzq/image/upload/v1734593394/nmt3mxbkzoexaeakzvyc.webp",
-      "facebook": "https://www.facebook.com/chinmoy.kashsyp.3?mibextid=rS40aB7S9Ucbxw6v",
-      "linkedin": "#",
-      "instagram": "https://www.instagram.com/chinmoyk9?igsh=YzljYTk1ODg3Zg=="
-  },
-  {
-      "id": 5,
-      "name": "Tai Mini",
-      "designation": "Joint Secretary (Resource Control)",
-      "imageUrl": "https://res.cloudinary.com/dhznqjuzq/image/upload/v1734594038/shd9b3rddshp9c7wgz7t.webp",
-      "facebook": "https://www.facebook.com/tai.mini.902",
-      "linkedin": "#",
-      "instagram": "https://www.instagram.com/taimini_heche?igsh=YzljYTk1ODg3Zg=="
-  },
-  {
-      "id": 6,
-      "name": "kampally Manaswi",
-      "designation": "Joint Secretary (Resource Control)",
-      "imageUrl": "https://res.cloudinary.com/dhznqjuzq/image/upload/v1734594124/s3ar1ffrjtdq0rwgytdn.webp",
-      "facebook": "https://www.facebook.com/profile.php?id=100089679296123&mibextid=ZbWKwL",
-      "linkedin": "#",
-      "instagram": "https://www.instagram.com/kampallymanaswi?igsh=MW51aTAzbzQwZmgwMQ=="
-  },
-  {
-      "id": 7,
-      "name": "Swagata Khound",
-      "designation": "Joint Secretary (Research & Development) ",
-      "imageUrl": " https://res.cloudinary.com/dhznqjuzq/image/upload/v1734594484/rnymipfhevutt3tzdipg.webp",
-      "facebook": "https://www.facebook.com/share/1KMp9T4TGH/",
-      "linkedin": "#",
-      "instagram": "https://www.instagram.com/swagata_07/"
-  },
-  {
-   "id": 8,
-      "name": "Abhishek Jha",
-      "designation": "Joint Secretary (Research & Development) ",
-      "imageUrl": " https://res.cloudinary.com/dhznqjuzq/image/upload/v1734594545/vef9a5pkqmabtj9r06vm.webp",
-      "facebook": "https://www.facebook.com/share/1Aa4VKPmpe/ ",
-      "linkedin": "#",
-      "instagram": "https://www.instagram.com/imabhishek_14/profilecard/?igsh=aWd6NjVkbG1ua3gw"
-  },
-  {
-      "id": 9,
-      "name": "Yeggida Veda Amrutha",
-      "designation": "Joint Secretary (Design)",
-      "imageUrl": "https://res.cloudinary.com/dhznqjuzq/image/upload/v1734594217/uwhbds3vqbgisofzfgba.webp",
-      "facebook": "https://www.facebook.com/share/1AkVDLKJiB/?mibextid=wwXIfr ",
-      "linkedin": "#",
-      "instagram": "https://www.instagram.com/veda_devaraju/profilecard/?igsh=MXU5ZnB2bmdpbmF1dw=="
-  },
-  {
-      "id": 10,
-      "name": "Uday Karthik",
-      "designation": "Joint Secretary (Design)",
-      "imageUrl": "https://res.cloudinary.com/dhznqjuzq/image/upload/v1734594282/mhgyf8g2mzhvzh4xadoc.webp",
-      "facebook": "https://www.facebook.com/jaruplavath.udaykarthik?mibextid=ZbWKwL",
-      "linkedin": "#",
-      "instagram": "https://www.instagram.com/udaykarthik26?igsh=OTVtazZ4bjI5c3I2"
-  },
-  {
-      "id": 11,
-      "name": "Vaarija Deshpande",
-      "designation": "Joint Secretary (Content)",
-      "imageUrl":"https://res.cloudinary.com/dhznqjuzq/image/upload/v1734593586/dukevd0q3og301rdvwkf.webp",
-      "facebook": "https://www.facebook.com/profile.php?id=100087875712565",
-      "linkedin": "#",
-      "instagram": "https://www.instagram.com/deshpandevaarija/profilecard/?igsh=bTJwajZqZ3FremNs"
-  },
-  {
-      "id": 12,
-      "name": "Prabhu Ansh",
-      "designation": "Joint Secretary (Content)",
-      "imageUrl":"https://res.cloudinary.com/dhznqjuzq/image/upload/v1734593865/jbfik21r1bjuyim1elj0.webp",
-      "facebook": "https://www.facebook.com/profile.php?id=100088177718753",
-      "linkedin": "#",
-      "instagram": "https://www.instagram.com/inevident.yet.incredible/"
-  },
-  {
-      "id": 13,
-      "name": "Ujjawal Raj",
-      "designation": "Joint Secretary (PR)",
-      "imageUrl":"https://res.cloudinary.com/dhznqjuzq/image/upload/v1734592965/qenek8kswxfzcei15zhr.webp",
-      "facebook": "https://www.facebook.com/share/15RJ9mFosP/",
-      "linkedin": "#",
-      "instagram": "https://www.instagram.com/ujjawal_raj189/profilecard/?igsh=MW5hdDE2MTV0azd6Yw=="
-  },
-  {
-      "id": 14,
-      "name": "Nikhil Sukla ",
-      "designation": "Joint Secretary (PR)",
-      "imageUrl":"https://res.cloudinary.com/dfew9we6n/image/upload/v1735029111/nss_member/zjmasrnxgdbkyi29owgg.webp",
-      "facebook": "https://www.facebook.com/share/yqJUaJFkRWaJNk1f/ ",
-      "linkedin": "#",
-      "instagram": "https://www.instagram.com/nikhil._.shukla_/profilecard/?igsh=MTBrdzFyYnNsaDdsYg=="
-  },
-  {
-      "id": 15,
-      "name": "Shivam Raj",
-      "designation": "Joint Secretary (Media)",
-      "imageUrl":" https://res.cloudinary.com/dhznqjuzq/image/upload/v1734593180/zrvhlkvby47msahpebxz.webp",
-      "facebook": "https://www.facebook.com/share/hTVYiZXL8Jzy2L8X/?mibextid=qi2Omg",
-      "linkedin": "#",
-      "instagram": "https://www.instagram.com/callme_shiiv/profilecard/?igsh=MTk3OXF4NnF5Mm56Mw=="
-  },
-  {
-      "id": 16,
-      "name": "Anusri Barman",
-      "designation": "Joint Secretary (Media)",
-      "imageUrl":"https://res.cloudinary.com/dhznqjuzq/image/upload/v1734593089/bth5p4md4mwytn88agfk.webp",
-      "facebook": "https://www.facebook.com/profile.php?id=100087599576197",
-      "linkedin": "#",
-      "instagram": "https://www.instagram.com/anu_sri1942/"
-  }
-  ]
-  
+[{
+        "id": 1,
+        "name": "Prashant Kumar",
+        "designation": "Vice President",
+        "imageUrl": "#",
+        "facebook": "https://www.facebook.com/share/1ByiusvFby/",
+        "linkedin": "#",
+        "instagram": "https://www.instagram.com/_whois_prashant/profilecard/?igsh=MTJ5ZnVwZ2xzOHE3bQ=="
+    },
+    {
+        "id": 2,
+        "name": "M Ashutosh",
+        "designation": "General Secretary",
+        "imageUrl": "https://res.cloudinary.com/dib4n6hii/image/upload/v1738474992/gt3ytftiujhxgnkvjw1a.webp",
+        "facebook": "https://www.facebook.com/share/n5aAU4Ru2H3uvGtw/",
+        "linkedin": "#",
+        "instagram": "#"
+    },
+    {
+        "id": 3,
+        "name": "Aditya Raj Boum",
+        "designation": "General Secretary",
+        "imageUrl": "https://res.cloudinary.com/df93reijv/image/upload/v1734594588/xxvxnv3hplxg00mktizm.webp",
+        "facebook": "https://www.facebook.com/profile.php?id=100087769609141&mibextid=ZbWKwL",
+        "linkedin": "#",
+        "instagram": "https://www.instagram.com/aditya_rajboum/profilecard/?igsh=NmFsa2dveTRuaDJ0"
+    },
+    {
+        "id": 4,
+        "name": "Chinmoy Das",
+        "designation": "Treasurer",
+        "imageUrl": " https://res.cloudinary.com/dhznqjuzq/image/upload/v1734593394/nmt3mxbkzoexaeakzvyc.webp",
+        "facebook": "https://www.facebook.com/chinmoy.kashsyp.3?mibextid=rS40aB7S9Ucbxw6v",
+        "linkedin": "#",
+        "instagram": "https://www.instagram.com/chinmoyk9?igsh=YzljYTk1ODg3Zg=="
+    },
+    {
+        "id": 5,
+        "name": "Tai Mini",
+        "designation": "Joint Secretary (Resource Control)",
+        "imageUrl": "https://res.cloudinary.com/dhznqjuzq/image/upload/v1734594038/shd9b3rddshp9c7wgz7t.webp",
+        "facebook": "https://www.facebook.com/tai.mini.902",
+        "linkedin": "#",
+        "instagram": "https://www.instagram.com/taimini_heche?igsh=YzljYTk1ODg3Zg=="
+    },
+    {
+        "id": 6,
+        "name": "kampally Manaswi",
+        "designation": "Joint Secretary (Resource Control)",
+        "imageUrl": "#",
+        "facebook": "https://www.facebook.com/profile.php?id=100089679296123&mibextid=ZbWKwL",
+        "linkedin": "#",
+        "instagram": "https://www.instagram.com/kampallymanaswi?igsh=MW51aTAzbzQwZmgwMQ=="
+    },
+    {
+        "id": 7,
+        "name": "Swagata Khound",
+        "designation": "Joint Secretary (Research & Development) ",
+        "imageUrl": " #",
+        "facebook": "https://www.facebook.com/share/1KMp9T4TGH/",
+        "linkedin": "#",
+        "instagram": "https://www.instagram.com/swagata_07/"
+    },
+    {
+        "id": 8,
+        "name": "Abhishek Jha",
+        "designation": "Joint Secretary (Research & Development) ",
+        "imageUrl": "https://res.cloudinary.com/dhznqjuzq/image/upload/v1734594545/vef9a5pkqmabtj9r06vm.webp",
+        "facebook": "https://www.facebook.com/share/1Aa4VKPmpe/ ",
+        "linkedin": "#",
+        "instagram": "https://www.instagram.com/imabhishek_14/profilecard/?igsh=aWd6NjVkbG1ua3gw"
+    },
+    {
+        "id": 9,
+        "name": "Yeggida Veda Amrutha",
+        "designation": "Joint Secretary (Design)",
+        "imageUrl": "https://res.cloudinary.com/dhznqjuzq/image/upload/v1734594217/uwhbds3vqbgisofzfgba.webp",
+        "facebook": "https://www.facebook.com/share/1AkVDLKJiB/?mibextid=wwXIfr ",
+        "linkedin": "#",
+        "instagram": "https://www.instagram.com/veda_devaraju/profilecard/?igsh=MXU5ZnB2bmdpbmF1dw=="
+    },
+    {
+        "id": 10,
+        "name": "Uday Karthik",
+        "designation": "Joint Secretary (Design)",
+        "imageUrl": "#",
+        "facebook": "https://www.facebook.com/jaruplavath.udaykarthik?mibextid=ZbWKwL",
+        "linkedin": "#",
+        "instagram": "https://www.instagram.com/udaykarthik26?igsh=OTVtazZ4bjI5c3I2"
+    },
+    {
+        "id": 11,
+        "name": "Vaarija Deshpande",
+        "designation": "Joint Secretary (Content)",
+        "imageUrl": "#",
+        "facebook": "https://www.facebook.com/profile.php?id=100087875712565",
+        "linkedin": "#",
+        "instagram": "https://www.instagram.com/deshpandevaarija/profilecard/?igsh=bTJwajZqZ3FremNs"
+    },
+    {
+        "id": 12,
+        "name": "Prabhu Ansh",
+        "designation": "Joint Secretary (Content)",
+        "imageUrl": "https://res.cloudinary.com/dhznqjuzq/image/upload/v1734593865/jbfik21r1bjuyim1elj0.webp",
+        "facebook": "https://www.facebook.com/profile.php?id=100088177718753",
+        "linkedin": "#",
+        "instagram": "https://www.instagram.com/inevident.yet.incredible/"
+    },
+    {
+        "id": 13,
+        "name": "Ujjawal Raj",
+        "designation": "Joint Secretary (PR)",
+        "imageUrl": "https://res.cloudinary.com/dhznqjuzq/image/upload/v1734592965/qenek8kswxfzcei15zhr.webp",
+        "facebook": "https://www.facebook.com/share/15RJ9mFosP/",
+        "linkedin": "#",
+        "instagram": "https://www.instagram.com/ujjawal_raj189/profilecard/?igsh=MW5hdDE2MTV0azd6Yw=="
+    },
+    {
+        "id": 14,
+        "name": "Nikhil Sukla ",
+        "designation": "Joint Secretary (PR)",
+        "imageUrl": " #",
+        "facebook": "https://www.facebook.com/share/yqJUaJFkRWaJNk1f/ ",
+        "linkedin": "#",
+        "instagram": "https://www.instagram.com/nikhil._.shukla_/profilecard/?igsh=MTBrdzFyYnNsaDdsYg=="
+    },
+    {
+        "id": 15,
+        "name": "Shivam Raj",
+        "designation": "Joint Secretary (Media)",
+        "imageUrl": " #",
+        "facebook": "https://www.facebook.com/share/hTVYiZXL8Jzy2L8X/?mibextid=qi2Omg",
+        "linkedin": "#",
+        "instagram": "https://www.instagram.com/callme_shiiv/profilecard/?igsh=MTk3OXF4NnF5Mm56Mw=="
+    },
+    {
+        "id": 16,
+        "name": "Anusri Barman",
+        "designation": "Joint Secretary (Media)",
+        "imageUrl": "#",
+        "facebook": "https://www.facebook.com/profile.php?id=100087599576197",
+        "linkedin": "#",
+        "instagram": "https://www.instagram.com/anu_sri1942/"
+    }
+]

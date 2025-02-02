@@ -63,7 +63,7 @@ const Home = () => {
               <div className=" boxes text-4xl font-bold flex flex-col items-center justify-center ">
 
                 <div className="figures flex items-center text-[#e12129] ">
-                  <p className="num text-7xl text-[#e12129] py-4">165</p>
+                  <p className="num text-7xl text-[#e12129] py-4">252</p>
 
                 </div>
                 <p className=" des text-lg font-bold">Volunteers</p>
@@ -72,7 +72,7 @@ const Home = () => {
               <div className=" boxes text-4xl font-bold flex flex-col items-center justify-center ">
 
                 <div className="figures flex items-center text-[#e12129] ">
-                  <p className="num text-7xl text-[#e12129] py-4">25</p>
+                  <p className="num text-7xl text-[#e12129] py-4">32</p>
 
                   <span className="plus block">+</span>
                 </div>
@@ -84,7 +84,7 @@ const Home = () => {
               <div className=" boxes text-4xl font-bold flex flex-col items-center justify-center md:">
 
                 <div className="figures flex items-center text-[#e12129] ">
-                  <p className="num text-7xl text-[#e12129] py-4">2</p>
+                  <p className="num text-7xl text-[#e12129] py-4">3</p>
                   <span className="plus block">+</span>
 
                 </div>
@@ -93,7 +93,7 @@ const Home = () => {
               <div className=" boxes text-4xl font-bold flex flex-col items-center justify-center">
 
                 <div className="figures flex items-center text-[#e12129] ">
-                  <p className="num text-7xl text-[#e12129] py-4">5</p>
+                  <p className="num text-7xl text-[#e12129] py-4">7</p>
                   <span className="plus block">+</span>
                 </div>
                 <p className=" des text-lg font-bold">Expert Talks</p>

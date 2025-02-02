@@ -1,31 +1,58 @@
-[
-  {
-    "id": "1",
-    "name": "Dr. Shankar. K",
-    "designation": "Program Officer",
-    "imageUrl": "/images/Dr. Shankar. K.jpg",
-    "facebook": "",
-    "instagram": "",
-    "linkedin": "",
-    "info": [
-      "Service is always selfless and it begins from the mindset of thinking about others. Hence, the moto of NSS is set as NOT ME BUT YOU.",
-      "We, the National Service Scheme (NSS) of NIT Silchar, are keen in bringing the positive changes in minds of everyone in and around the campus. NSS-NITS believes in doing rather than preaching; our dedicated volunteers are involving themselves in the activities start from education to health, fitness to cleanliness and environment to Biodiversity. In addition, we regularly visit nearby villages to make the people aware of health and other Govt. schemes. ",
-      "We understand, the sky is the limit: Let's expand and extend our good thoughts to create inclusive surroundings.",
-      "Read good! Think good! Act good!"
-    ]
-  },
-  {
-    "id": "2",
-    "name": "Abhijit Das",
-    "designation": "President",
-    "imageUrl": "/images/Abhijit.jpg",
-    "facebook": "https://www.facebook.com/profile.php?id=100052769931758",
-    "instagram": "https://www.instagram.com/a_bhi_das/",
-    "linkedin": "https://www.linkedin.com/in/abhijit-das-61702222a/",
-    "info": [
-      "The National Service Scheme (NSS) unit of NIT Silchar is a vibrant and dedicated organization committed to fostering social responsibility and community engagement among students. Our unit, established with the mission of developing the personality of students through community service, actively engages in various initiatives that promote societal well-being. By involving our volunteers in a range of activities, from health camps to environmental conservation efforts, we strive to make a tangible impact on our community while instilling a sense of civic duty too.",
-      "At NSS NIT Silchar, we believe in the power of collective action to bring about positive change. Our volunteers regularly participate in awareness campaigns, and blood donation drives, working tirelessly to address pressing social issues. Through these activities, our volunteers gain invaluable hands-on experience and develop essential skills such as leadership, teamwork, and problem-solving. The NSS unit at NIT Silchar is not just a platform for volunteerism; it is a transformative journey that shapes compassionate and socially conscious leaders of tomorrow. We are proud of the dedication and enthusiasm of our volunteers, who embody the true spirit of NSS by selflessly serving society and working towards a brighter future for all.",
-      "Empowering communities, fostering change, and building a brighter future through selfless service and dedication."
-    ]
-  }
+[{
+        "id": "1",
+        "name": "Dr. Shankar. K",
+        "designation": "Program coordinator",
+        "imageUrl": "/images/Dr. Shankar. K.jpg",
+        "facebook": "",
+        "instagram": "",
+        "linkedin": "",
+        "info": [
+            "Service is always selfless and it begins from the mindset of thinking about others. Hence, the moto of NSS is set as NOT ME BUT YOU.",
+            "We, the National Service Scheme (NSS) of NIT Silchar, are keen in bringing the positive changes in minds of everyone in and around the campus. NSS-NITS believes in doing rather than preaching; our dedicated volunteers are involving themselves in the activities start from education to health, fitness to cleanliness and environment to Biodiversity. In addition, we regularly visit nearby villages to make the people aware of health and other Govt. schemes. ",
+            "We understand, the sky is the limit: Let's expand and extend our good thoughts to create inclusive surroundings.",
+            "Read good! Think good! Act good!"
+        ]
+    },
+    {
+        "id": "2",
+        "name": "Dr. Prosun Mandal",
+        "designation": "Program Officer",
+        "imageUrl": "https://res.cloudinary.com/dib4n6hii/image/upload/v1738477943/uhwwfxlyc5bupwf02yth.webp",
+        "facebook": "",
+        "instagram": "",
+        "linkedin": "",
+        "info": [
+            "The motto of the National Service Scheme (NSS) is NOT ME, BUT YOU. This reflects the essence of democratic living, emphasizing selfless service, respect for diverse perspectives, and consideration for fellow human beings. It highlights the idea that an individual's well-being is ultimately linked to the welfare of society as a whole. Therefore, it should be the mission of NSS to embody this motto in its day-to-day activities.",
+            "Perfection cannot be achieved without practice—this holds true for both academics and life. Positive qualities such as love, compassion, and empathy must be nurtured to become fulfilled and blessed individuals. One of the best ways to cultivate these values is through selfless service to others. NSS provides a platform where we can contribute to society without expecting anything in return.",
+            "Through NSS, volunteers not only help the community but also develop a deeper understanding of the society in which they work. They learn to identify social issues, recognize the needs of the people, and embrace their social and civic responsibilities.",
+            "As Swami Vivekananda said:",
+            "They alone live who live for others, the rest are more dead than alive."
+        ]
+    },
+    {
+        "id": "3",
+        "name": "Dr. Rajesh Saha",
+        "designation": "Program Officer",
+        "imageUrl": "",
+        "facebook": "",
+        "instagram": "",
+        "linkedin": "",
+        "info": [
+            ""
+        ]
+    },
+    {
+        "id": "4",
+        "name": "Abhijit Das",
+        "designation": "President",
+        "imageUrl": "/images/Abhijit.jpg",
+        "facebook": "https://www.facebook.com/profile.php?id=100052769931758",
+        "instagram": "https://www.instagram.com/a_bhi_das/",
+        "linkedin": "https://www.linkedin.com/in/abhijit-das-61702222a/",
+        "info": [
+            "The National Service Scheme (NSS) unit of NIT Silchar is a vibrant and dedicated organization committed to fostering social responsibility and community engagement among students. Our unit, established with the mission of developing the personality of students through community service, actively engages in various initiatives that promote societal well-being. By involving our volunteers in a range of activities, from health camps to environmental conservation efforts, we strive to make a tangible impact on our community while instilling a sense of civic duty too.",
+            "At NSS NIT Silchar, we believe in the power of collective action to bring about positive change. Our volunteers regularly participate in awareness campaigns, and blood donation drives, working tirelessly to address pressing social issues. Through these activities, our volunteers gain invaluable hands-on experience and develop essential skills such as leadership, teamwork, and problem-solving. The NSS unit at NIT Silchar is not just a platform for volunteerism; it is a transformative journey that shapes compassionate and socially conscious leaders of tomorrow. We are proud of the dedication and enthusiasm of our volunteers, who embody the true spirit of NSS by selflessly serving society and working towards a brighter future for all.",
+            "Empowering communities, fostering change, and building a brighter future through selfless service and dedication."
+        ]
+    }
 ]
