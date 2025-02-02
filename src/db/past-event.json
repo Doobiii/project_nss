@@ -9,7 +9,7 @@
   },
   {
     "id": 2,
-    "title": "Selection Process",
+    "title": "Selection Process(23 Batch)",
     "content": "Content for Card 1",
     "imgUrl": "https://res.cloudinary.com/dvm4ovv0x/image/upload/f_auto,q_auto/v1/NSS_EVENTS/npb9t8yn5w45fgxsr4pz",
     "year": 2023,
@@ -29,7 +29,7 @@
     "content": "Content for Card 3",
     "imgUrl": "https://res.cloudinary.com/dvm4ovv0x/image/upload/f_auto,q_auto/v1/NSS_EVENTS/ezv7bvvluqox2arwl0ky",
     "year": 2023,
-    "event_type": "Donation drive"
+    "event_type": "Donation Drive"
   },
   { 
     "id": 5,
@@ -37,7 +37,7 @@
     "content": "Content for Card 4",
     "imgUrl": "https://res.cloudinary.com/dvm4ovv0x/image/upload/f_auto,q_auto/v1/NSS_EVENTS/d7qjjcjxzuvirdq1z9m8",
     "year": 2024,
-    "event_type": "Specials"
+    "event_type": "Parade"
   },
   { 
     "id": 6,
@@ -45,7 +45,7 @@
     "content": "Content for Card 5",
     "imgUrl": "https://res.cloudinary.com/dvm4ovv0x/image/upload/f_auto,q_auto/v1/NSS_EVENTS/ymkdzefqznlecxmu8s6z",
     "year": 2023,
-    "event_type": "Donation drive"
+    "event_type": "Donation Drive"
   },
   {
     "id": 7,
@@ -53,7 +53,7 @@
     "content": "Content for card 7",
     "imgUrl": "https://res.cloudinary.com/dvm4ovv0x/image/upload/f_auto,q_auto/v1/NSS_EVENTS/enowdoewrzfp2mqnznou",
     "year": 2024,
-    "event_type": "Cleanliness Drive"
+    "event_type": "Cleanliness"
   },
   {
     "id": 8,
@@ -93,7 +93,7 @@
     "content": "Content for card 12",
     "imgUrl": "https://res.cloudinary.com/dzq6ynqdw/image/upload/f_auto,q_auto/v1/nikhil/NSS_Events/ojcugjramj8v60tgq4ct",
     "year": 2024,
-    "event_type": "Donation drive"
+    "event_type": "Donation Drive"
   },
   {
     "id": 13,
@@ -125,7 +125,7 @@
     "content": "Content for card 16",
     "imgUrl": "https://res.cloudinary.com/dmsr8ttrz/image/upload/v1734946851/l0im96wntj1hwim0d1v7.webp",
     "year": 2024,
-    "event_type": "Help desk"
+    "event_type": "Help Desk"
   },
 {
     "id": 17,
@@ -137,11 +137,11 @@
   },
 {
     "id": 18,
-    "title": "Independence Day",
+    "title": "Independence Day Parade",
     "content": "Content for card 18",
     "imgUrl": "https://res.cloudinary.com/dmsr8ttrz/image/upload/v1734947149/NSS/riztoz7z2vfo6pzthezq.webp",
     "year": 2024,
-    "event_type": "Specials"
+    "event_type": "Parade"
   },
 {
     "id": 19,
@@ -157,7 +157,7 @@
     "content": "Content for card 20",
     "imgUrl": "https://res.cloudinary.com/dmsr8ttrz/image/upload/v1734947340/NSS/erlqwzbccz4l64aniuw6.webp",
     "year": 2024,
-    "event_type": "Awareness"
+    "event_type": "Waste Disposals"
   },
 {
     "id": 21,
@@ -173,7 +173,7 @@
     "content": "Content for card 22",
     "imgUrl": "https://res.cloudinary.com/dmsr8ttrz/image/upload/v1734948605/NSS/suiuzkqmgph0zrmxuhz3.webp",
     "year": 2024,
-    "event_type": "plantation"
+    "event_type": "Plantation"
   },
 
 {
@@ -194,14 +194,6 @@
   },
 {
     "id": 25,
-    "title": "Selection Process",
-    "content": "Content for card 25",
-    "imgUrl": "https://res.cloudinary.com/dmsr8ttrz/image/upload/v1734948788/NSS/zvoe0wl86eulziwadyzy.webp",
-    "year": 2024,
-    "event_type": "Selection Process"
-  },
-{
-    "id": 26,
     "title": "Village Survey",
     "content": "Content for card 26",
     "imgUrl": "https://res.cloudinary.com/dmsr8ttrz/image/upload/v1734948839/NSS/wdrzegjjvjad2pnzkmso.webp",
@@ -209,27 +201,27 @@
     "event_type": "Survey"
   },
 {
-    "id": 27,
+    "id": 26,
     "title": "Special Campaign 4.0",
     "content": "Content for card 27",
     "imgUrl": "https://res.cloudinary.com/dmsr8ttrz/image/upload/v1734948925/NSS/sovgsskllazfxwllvpbq.webp",
     "year": 2024,
-    "event_type": "Waste Mannagement"
+    "event_type": "Awareness"
   },
 {
-    "id": 28,
+    "id": 27,
     "title": "Diwali Donation Drive",
     "content": "Content for card 28",
     "imgUrl": "https://res.cloudinary.com/dmsr8ttrz/image/upload/v1734949284/NSS/epphcng5sposxquk7ahr.webp",
     "year": 2024,
-    "event_type": "Donation drive"
+    "event_type": "Donation Drive"
   },
 {
-    "id": 29,
+    "id": 28,
     "title": "LP School Donation Drive",
     "content": "Content for card 29",
     "imgUrl": "https://res.cloudinary.com/dmsr8ttrz/image/upload/v1734949510/NSS/kfmwmso2li7ujr1x5h7g.webp",
     "year": 2024,
-    "event_type": "Donation drive"
+    "event_type": "Donation Drive"
   }
 ]
