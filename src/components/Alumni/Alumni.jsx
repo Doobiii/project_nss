@@ -1,7 +1,7 @@
 import styles from "./Team.module.scss";
 import Heading from "../shared/Heading/Heading";
-import SectionTeam from "./Team-comp/Info-section/Section";
-import data from "../../db/team";
+// import SectionTeam from "./Team-comp/Info-section/Section";
+// import data from "../../db/team";
 // import focus from "../../db/team-focus";
 import Alum24 from "../../db/Alumni24.json"
 
