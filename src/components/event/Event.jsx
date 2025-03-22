@@ -10,7 +10,7 @@ const Event = () => {
     <div className="event-page">
       <Header
         title="Event"
-        backgroundImage="https://res.cloudinary.com/sahincloudinary/image/upload/f_auto,q_auto/v1/nss_events/team/alxumd0y2gadbc9tevco"
+        backgroundImage="https://res.cloudinary.com/dmsr8ttrz/image/upload/v1742146040/snsgujwh0tpajysm5ntz.webp"
       />
       <Heading title="Events in Focus" />
       <div className="container my-5">
@@ -76,6 +76,7 @@ const Event = () => {
                   <Card
                     title={card.title}
                     imgUrl={card.imgUrl}
+                    date={card.date}
                   />
                 </div>
               ))}

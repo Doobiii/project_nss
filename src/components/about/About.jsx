@@ -14,7 +14,7 @@ function About() {
     <div className="about-page">
       <Header
         title="About Us"
-        backgroundImage="https://res.cloudinary.com/sahincloudinary/image/upload/f_auto,q_auto/v1/nss_events/team/sutlpsi5a0evt6kutntt"
+        backgroundImage="https://res.cloudinary.com/dmsr8ttrz/image/upload/v1742139222/dmjmtfxwbtcwr94agmrh.webp"
       />
 
       <div className="container my-5 text-center">
@@ -40,14 +40,14 @@ function About() {
         <div className="row gap-0 my-4 px-sm-2">
           <div className="col-lg-6 d-flex flex-column align-items-center justify-content-center ">
             <img
-              src="https://res.cloudinary.com/sahincloudinary/image/upload/f_auto,q_auto/v1/nss_events/team/tlk4goagexcsktbrukjk"
+              src="https://res.cloudinary.com/dmsr8ttrz/image/upload/v1742146618/zykzsldogecldr4fsypw.webp"
               className="img-fluid h-3/4 w-3/4 rounded mb-3 mb-lg-0"
               alt=""
             />
           </div>
           <div className="col-lg-6 d-flex flex-column align-items-center justify-content-center">
             <img
-              src="https://res.cloudinary.com/sahincloudinary/image/upload/f_auto,q_auto/v1/nss_events/team/efe7e2wxiao16vcw5fk7"
+              src="https://res.cloudinary.com/dmsr8ttrz/image/upload/v1742146615/naxe25wkdmept52gls60.webp"
               className="img-fluid h-3/4 w-3/4 rounded ml-md-3 "
               alt=""
             />
@@ -81,7 +81,7 @@ function About() {
                     </div>
                   </CardBody>
                   <CardFooter className="d-flex align-items-center">
-                    <div style={{ width: "5rem", height: "5rem" }}>
+                    <div style={{ width: "5rem", height: "5rem"}}>
                       <img
                         src={item.imageUrl}
                         className="img-fluid rounded-circle shadow"

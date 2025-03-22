@@ -12,7 +12,7 @@ const Team = () => {
       <Header
         title="Team"
         backgroundImage={
-          "https://res.cloudinary.com/sahincloudinary/image/upload/f_auto,q_auto/v1/nss_events/team/iqydnjgf00cynldupcic"
+          "https://res.cloudinary.com/dmsr8ttrz/image/upload/v1742139228/sbfsfsduefxli9crislu.webp"
         }
       />
       <Heading title="Our Team" />
@@ -51,3 +51,4 @@ const Team = () => {
   );
 };
 export default Team;
+

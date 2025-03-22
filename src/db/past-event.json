@@ -1,6 +1,6 @@
 [{
         "id": 1,
-        "title": "NSS Inauguration",
+        "title": "NSS Inauguration (Aug 2023)",
         "content": "Content for card 0",
         "imgUrl": "https://res.cloudinary.com/dvm4ovv0x/image/upload/f_auto,q_auto/v1/NSS_EVENTS/m8ebceopqwoajlmzb9ok",
         "year": 2023,
@@ -9,7 +9,7 @@
     },
     {
         "id": 2,
-        "title": "Selection Process",
+        "title": "Selection Process (Sept 2023)",
         "content": "Content for Card 1",
         "imgUrl": "https://res.cloudinary.com/dvm4ovv0x/image/upload/f_auto,q_auto/v1/NSS_EVENTS/npb9t8yn5w45fgxsr4pz",
         "year": 2023,
@@ -18,7 +18,7 @@
     },
     {
         "id": 3,
-        "title": "Village Survey",
+        "title": "Village Survey (Nov 2023)",
         "content": "Content for Card 2",
         "imgUrl": "https://res.cloudinary.com/dvm4ovv0x/image/upload/f_auto,q_auto/v1/NSS_EVENTS/betqxmesgseg8dadqnft",
         "year": 2023,
@@ -27,7 +27,7 @@
     },
     {
         "id": 4,
-        "title": "Diwali Donation Drive",
+        "title": "Diwali Donation Drive (Nov 2023)",
         "content": "Content for Card 3",
         "imgUrl": "https://res.cloudinary.com/dvm4ovv0x/image/upload/f_auto,q_auto/v1/NSS_EVENTS/ezv7bvvluqox2arwl0ky",
         "year": 2023,
@@ -36,7 +36,7 @@
     },
     {
         "id": 5,
-        "title": "Republic Day Parade",
+        "title": "Republic Day Parade (Jan 2024)",
         "content": "Content for Card 4",
         "imgUrl": "https://res.cloudinary.com/dvm4ovv0x/image/upload/f_auto,q_auto/v1/NSS_EVENTS/d7qjjcjxzuvirdq1z9m8",
         "year": 2024,
@@ -45,7 +45,7 @@
     },
     {
         "id": 6,
-        "title": "Khadi Mahotsava",
+        "title": "Khadi Mahotsava (March 2024)",
         "content": "Content for Card 5",
         "imgUrl": "https://res.cloudinary.com/dvm4ovv0x/image/upload/f_auto,q_auto/v1/NSS_EVENTS/ymkdzefqznlecxmu8s6z",
         "year": 2023,
@@ -54,7 +54,7 @@
     },
     {
         "id": 7,
-        "title": "Cleaning Event",
+        "title": "Cleaning Event (March 2024)",
         "content": "Content for card 7",
         "imgUrl": "https://res.cloudinary.com/dvm4ovv0x/image/upload/f_auto,q_auto/v1/NSS_EVENTS/enowdoewrzfp2mqnznou",
         "year": 2024,
@@ -63,7 +63,7 @@
     },
     {
         "id": 8,
-        "title": "Biodiversity Speaker Session",
+        "title": "Biodiversity Speaker Session (March 2024)",
         "content": "Content for card 6",
         "imgUrl": "https://res.cloudinary.com/dvm4ovv0x/image/upload/f_auto,q_auto/v1/NSS_EVENTS/ve5qntpjeyzff6mstq9k",
         "year": 2024,
@@ -72,7 +72,7 @@
     },
     {
         "id": 9,
-        "title": "Mera Pehla Vote Desh ke Liye",
+        "title": "Mera Pehla Vote Desh ke Liye (March 2024)",
         "content": "Content for card 9",
         "imgUrl": "https://res.cloudinary.com/dzq6ynqdw/image/upload/f_auto,q_auto/v1/nikhil/NSS_Events/ypxfswsjs166npoqpzbk",
         "year": 2024,
@@ -81,16 +81,16 @@
     },
     {
         "id": 10,
-        "title": "Waste Disposal in NIT",
+        "title": "Waste Disposal in NIT (April 2024)",
         "content": "Content for card 10",
-        "imgUrl": "https://res.cloudinary.com/dzq6ynqdw/image/upload/f_auto,q_auto/v1/nikhil/NSS_Events/zcv5g1qar6ejza2v5qyu",
+        "imgUrl": "https://res.cloudinary.com/dmsr8ttrz/image/upload/v1742148149/duyctvtx9ypikgf5z4ip.webp",
         "year": 2024,
         "date": "April 2024",
         "event_type": "Survey"
     },
     {
         "id": 11,
-        "title": "Health Awareness Camp",
+        "title": "Health Awareness Camp (April 2024)",
         "content": "Content for card 11",
         "imgUrl": "https://res.cloudinary.com/dzq6ynqdw/image/upload/f_auto,q_auto/v1/nikhil/NSS_Events/jyxi6uxr8m52wilcgole",
         "year": 2024,
@@ -99,7 +99,7 @@
     },
     {
         "id": 12,
-        "title": "Donation Drive in Schools",
+        "title": "Donation Drive in Schools (April 2024)",
         "content": "Content for card 12",
         "imgUrl": "https://res.cloudinary.com/dzq6ynqdw/image/upload/f_auto,q_auto/v1/nikhil/NSS_Events/ojcugjramj8v60tgq4ct",
         "year": 2024,
@@ -108,7 +108,7 @@
     },
     {
         "id": 13,
-        "title": "Pragati Parv",
+        "title": "Pragati Parv (April 2024)",
         "content": "Content for card 13",
         "imgUrl": "https://res.cloudinary.com/dzq6ynqdw/image/upload/f_auto,q_auto/v1/nikhil/NSS_Events/dfvg53flhrvri4nzgshb",
         "year": 2024,
@@ -117,7 +117,7 @@
     },
     {
         "id": 14,
-        "title": "Blood Donation Camp",
+        "title": "Blood Donation Camp (April 2024)",
         "content": "Content for card 14",
         "imgUrl": "https://res.cloudinary.com/dzq6ynqdw/image/upload/f_auto,q_auto/v1/nikhil/NSS_Events/dclz5uocacdir3jjzcgb",
         "year": 2024,
@@ -126,7 +126,7 @@
     },
     {
         "id": 15,
-        "title": "Farewell of Batch 24",
+        "title": "Farewell of Batch 24 (May 2024)",
         "content": "Content for card 15",
         "imgUrl": "https://res.cloudinary.com/dzq6ynqdw/image/upload/f_auto,q_auto/v1/nikhil/NSS_Events/dlnxkd9kg2ie0k08wfi4",
         "year": 2024,
@@ -135,7 +135,7 @@
     },
     {
         "id": 16,
-        "title": "Help Desk for Batch 24",
+        "title": "Help Desk for Batch 24 (Aug 2024)",
         "content": "Content for card 16",
         "imgUrl": "https://res.cloudinary.com/dmsr8ttrz/image/upload/v1734946851/l0im96wntj1hwim0d1v7.webp",
         "year": 2024,
@@ -144,7 +144,7 @@
     },
     {
         "id": 17,
-        "title": "Har Ghar Tiranga Rally",
+        "title": "Har Ghar Tiranga Rally (Aug 2024)",
         "content": "Content for card 17",
         "imgUrl": "https://res.cloudinary.com/dmsr8ttrz/image/upload/v1734947123/NSS/ly0jh4i729wyq4ccmpvv.webp",
         "year": 2024,
@@ -153,7 +153,7 @@
     },
     {
         "id": 18,
-        "title": "Independence Day",
+        "title": "Independence Day (Aug 2024)",
         "content": "Content for card 18",
         "imgUrl": "https://res.cloudinary.com/dmsr8ttrz/image/upload/v1734947149/NSS/riztoz7z2vfo6pzthezq.webp",
         "year": 2024,
@@ -162,7 +162,7 @@
     },
     {
         "id": 19,
-        "title": "Selection Process(24 Batch)",
+        "title": "Selection Process(24 Batch) (Sept 2024)",
         "content": "Content for card 19",
         "imgUrl": "https://res.cloudinary.com/dmsr8ttrz/image/upload/v1734947292/NSS/oax3amq1jrfzrftj8bte.webp",
         "year": 2024,
@@ -171,7 +171,7 @@
     },
     {
         "id": 20,
-        "title": "Swatchhata pakhwada",
+        "title": "Swatchhata pakhwada (Sept 2024)",
         "content": "Content for card 20",
         "imgUrl": "https://res.cloudinary.com/dmsr8ttrz/image/upload/v1734947340/NSS/erlqwzbccz4l64aniuw6.webp",
         "year": 2024,
@@ -180,7 +180,7 @@
     },
     {
         "id": 21,
-        "title": "Teachers Day",
+        "title": "Teachers Day (Sept 2024)",
         "content": "Content for card 21",
         "imgUrl": "https://res.cloudinary.com/dmsr8ttrz/image/upload/v1734949805/NSS/iyturuinzfa2n8lcbe4e.webp",
         "year": 2024,
@@ -189,9 +189,9 @@
     },
     {
         "id": 22,
-        "title": "Plantation Drive",
+        "title": "Plantation Drive (Sept 2024)",
         "content": "Content for card 22",
-        "imgUrl": "https://res.cloudinary.com/dmsr8ttrz/image/upload/v1734948605/NSS/suiuzkqmgph0zrmxuhz3.webp",
+        "imgUrl": "https://res.cloudinary.com/dmsr8ttrz/image/upload/v1742148132/n99s9zap76n8b6d681uh.webp",
         "year": 2024,
         "date": "September 2024",
         "event_type": "plantation"
@@ -199,16 +199,16 @@
 
     {
         "id": 23,
-        "title": "Session on hygiene",
+        "title": "Session on hygiene (Sept 2024)",
         "content": "Content for card 23",
-        "imgUrl": "https://res.cloudinary.com/dmsr8ttrz/image/upload/v1734947536/NSS/cyx4ipxxsawaehzhflsm.webp",
+        "imgUrl": "https://res.cloudinary.com/dmsr8ttrz/image/upload/v1742147606/fdc1hu3lxnv9chgzipxz.webp",
         "year": 2024,
         "date": "September 2024",
         "event_type": "Awareness"
     },
     {
         "id": 24,
-        "title": "NSS Day Speaker Session",
+        "title": "NSS Day Speaker Session (Sept 2024)",
         "content": "Content for card 24",
         "imgUrl": "https://res.cloudinary.com/dmsr8ttrz/image/upload/v1734948610/NSS/vmdy62xbj7cp5xook9iw.webp",
         "year": 2024,
@@ -217,7 +217,7 @@
     },
     {
         "id": 25,
-        "title": "Selection Process",
+        "title": "Selection Process (Sept 2024)",
         "content": "Content for card 25",
         "imgUrl": "https://res.cloudinary.com/dmsr8ttrz/image/upload/v1734948788/NSS/zvoe0wl86eulziwadyzy.webp",
         "year": 2024,
@@ -226,16 +226,16 @@
     },
     {
         "id": 26,
-        "title": "Village Survey",
+        "title": "Village Survey (Oct 2024)",
         "content": "Content for card 26",
-        "imgUrl": "https://res.cloudinary.com/dmsr8ttrz/image/upload/v1734948839/NSS/wdrzegjjvjad2pnzkmso.webp",
+        "imgUrl": "https://res.cloudinary.com/dmsr8ttrz/image/upload/v1742149350/w37s4w5q9iy3we5cjcjf.webp",
         "year": 2024,
         "date": "October 2024",
         "event_type": "Survey"
     },
     {
         "id": 27,
-        "title": "Special Campaign 4.0",
+        "title": "Special Campaign 4.0 (Oct 2024)",
         "content": "Content for card 27",
         "imgUrl": "https://res.cloudinary.com/dmsr8ttrz/image/upload/v1734948925/NSS/sovgsskllazfxwllvpbq.webp",
         "year": 2024,
@@ -244,16 +244,16 @@
     },
     {
         "id": 28,
-        "title": "Diwali Donation Drive",
+        "title": "Diwali Donation Drive (Nov 2024)",
         "content": "Content for card 28",
         "imgUrl": "https://res.cloudinary.com/dmsr8ttrz/image/upload/v1734949284/NSS/epphcng5sposxquk7ahr.webp",
-        "year": 2024,
+        "year":2024,
         "date": "November 2024",
         "event_type": "Donation drive"
     },
     {
         "id": 29,
-        "title": "LP School Donation Drive",
+        "title": "LP School Donation Drive (Nov 2024)",
         "content": "Content for card 29",
         "imgUrl": "https://res.cloudinary.com/dmsr8ttrz/image/upload/v1734949510/NSS/kfmwmso2li7ujr1x5h7g.webp",
         "year": 2024,
@@ -262,37 +262,37 @@
     },
     {
         "id": 30,
-        "title": "Speaker session on National Youth Day",
+        "title": "Speaker session on National Youth Day (Jan 2025)",
         "content": "Content for card 30",
         "imgUrl": "",
-        "year": 2024,
+        "year": 2025,
         "date": "January 2025",
         "event_type": "Awareness"
     },
     {
         "id": 31,
-        "title": "Speaker session on cervical cancer and blood donation awareness",
+        "title": "Speaker session on cervical cancer and blood donation awareness (Jan 2025)",
         "content": "Content for card 31",
         "imgUrl": "https://res.cloudinary.com/dyl1oouph/image/upload/v1738475845/q00jz8qsofa8o8dbedae.webp",
-        "year": 2024,
+        "year": 2025,
         "date": "January 2025",
         "event_type": "Awareness"
     },
     {
         "id": 32,
-        "title": "Republic day parade",
+        "title": "Republic day parade (Jan 2025)",
         "content": "Content for card 32",
         "imgUrl": "https://res.cloudinary.com/dyl1oouph/image/upload/v1738476007/wv7qblnh8rg1egag1ftr.webp",
-        "year": 2024,
+        "year": 2025,
         "date": "January 2025",
         "event_type": "Specials"
     },
     {
         "id": 33,
-        "title": "Blood Donation Camp",
+        "title": "Blood Donation Camp (Jan 2025)",
         "content": "Content for card 33",
         "imgUrl": "https://res.cloudinary.com/dyl1oouph/image/upload/v1738475928/znkphwti7lqdiep477ev.webp",
-        "year": 2024,
+        "year": 2025,
         "date": "January 2025",
         "event_type": "Blood Donation"
     }

@@ -12,27 +12,40 @@ const Hero = () => {
   return (
     <div className="slider">
       <Carousel activeIndex={index} onSelect={handleSelect}>
-        <Carousel.Item>
+      <Carousel.Item>
           <img
             className="d-block w-100"
-            src="https://res.cloudinary.com/sahincloudinary/image/upload/f_auto,q_auto/v1/nss_events/team/alxumd0y2gadbc9tevco"
+            src="https://res.cloudinary.com/dgq4nmdgz/image/upload/v1742195699/bir23kfjot6c6upgns8e.jpg"
             alt="first"
           />
           <Carousel.Caption>
-            <h2>Fit India</h2>
+            <h2>Plantation Drive</h2>
             <p>
-              NSS NIT Silchar leads the way in fostering unity through action.
+              NSS NIT Silchar leads the way to plantation.
+            </p>
+          </Carousel.Caption>
+        </Carousel.Item>
+        <Carousel.Item>
+          <img
+            className="d-block w-100"
+            src="https://res.cloudinary.com/dgq4nmdgz/image/upload/v1742196763/yilppszyqagdgcpe54oa.jpg"
+            alt="second"
+          />
+          <Carousel.Caption>
+            <h2>Speaker Session</h2>
+            <p>
+              NSS NIT Silchar step for awareness about Voluntary Blood Donation.
             </p>
           </Carousel.Caption>
         </Carousel.Item>
         <Carousel.Item>
           <img
             className="d-block w=100"
-            src="https://res.cloudinary.com/dkntkq8iv/image/upload/v1711890773/Diwali%20donation%20Drive/DiwaliDonation2.webp"
+            src="https://res.cloudinary.com/dgq4nmdgz/image/upload/v1742196979/scocdpjbye7eonrxxpdu.jpg"
             alt="third"
           />
           <Carousel.Caption>
-            <h2>Village Survey</h2>
+            <h2>Diwali Donation Drive</h2>
             <p>
               NSS NIT Silchar's donation drive enriching young minds with the
               gift of learning.
@@ -42,18 +55,30 @@ const Hero = () => {
         <Carousel.Item>
           <img
             className="d-block w=100"
-            src="https://res.cloudinary.com/dvm4ovv0x/image/upload/f_auto,q_auto/v1/NSS_EVENTS/vqrnipk4ao3b9mucnzpf"
-            alt="second"
+            src="https://res.cloudinary.com/dgq4nmdgz/image/upload/v1742197090/moqjthevaz9ow7ofhn6h.jpg"
+            alt="fourth"
           />
           <Carousel.Caption>
-            <h2>Village Survey</h2>
+            <h2>Republic Day</h2>
             <p>
-              NSS NIT Silchar's donation drive brightening up lives and
-              spreading hope.
+              NSS NIT Silchar's Republic Day Parade.
             </p>
           </Carousel.Caption>
         </Carousel.Item>
       </Carousel>
+      <Carousel.Item>
+          <img
+            className="d-block w-100"
+            src="https://res.cloudinary.com/dgq4nmdgz/image/upload/v1742197331/ufmuws8qlqreibmkq7md.jpg"
+            alt="fifth"
+          />
+          <Carousel.Caption>
+            <h2>Village Survey</h2>
+            <p>
+              NSS NIT Silchar conducts' a village survey
+            </p>
+          </Carousel.Caption>
+        </Carousel.Item>
     </div>
   );
 };
