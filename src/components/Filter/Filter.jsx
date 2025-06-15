@@ -24,7 +24,7 @@ const Filter = () => {
     "Parade",
   ];
 
-  const yearOptions = ["2023", "2024"];
+  const yearOptions = ["2023", "2024","2025"];
 
   // Load the data using useEffect once
   useEffect(() => {
